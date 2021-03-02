@@ -1,0 +1,66 @@
+text
+I think the only the only area that is still somewhat debatable on hydroxychloroquine is we can use it as pre-exposure prophylaxis.
+As you know it's been discarded as a treatment for moderate, mild and severe COVID.
+But there's still some some investigator, which think that if you use it early enough, you may have an effect.
+But these are double-blind placebo randomized study of hydroxychloroquine in actually healthcare workers.
+They were taking these hydroxychloroquine before they they were exposed to COVID.
+And when they look at those who were taking and not taking the hydroxychloroquine, no difference.
+It's another another negative study for for hydroxychloroquine, in this case as pre-exposure prophylaxis, and we have already post-prophylaxis and a side step treatment.
+So hydroxychloroquine so far, no, no good news from from that, An article that was actually pushed at the beginning of the of the pandemic assess a possible treatment based on the in vitro study in Vero cells.
+But there's definitely no no clinical efficacy in this clinical trial.
+Another, another topic that we have been discussing is the long COVID, and I found this recent paper published in Clinical Microbiology and Infection.
+It's actually a pretty well known study on follow up of patient with no critical COVID because, as you know, there has been the discussion that some of this long COVID symptoms are may be related to the fact that the patient is in ICU, intubated, inmobile.
+They have a lot of fatigue, and people have a speculated that that this may be partly just due to the, you know, the the critical face of the disease.
+So this author's actually look at the non-critical COVID patients, and they follow them for 60 days.
+And they did, like, standardized questionnaires on these patients and register the symptomatology.
+And they actually initially enroll 293 patients.
+They ended up because some patients were not known included 101 with mild to moderate COVID and 29 with severe COVID.
+But non-critical, not ICU COVID, And the results, what we suspected that a high, very high percentage of patient on day 30 and a 60 almost almost two third of the patients, they have persistent symptoms.
+So more than one or more symptoms in basically two third and this persisted all the way out to the 60 day follow up.
+So it's a pretty, you know, prevalent issue.
+Some of the most frequent symptoms was the loss of sense off smell and taste.
+The anosmia and ageusia we have at the onset 59% hearted on day 30 28 they 60 still, like one quarter of the patient, have these these anosmia, or loss of taste.
+Also astenia, which was not reported in the initial information with 50% in day 30 and 40% on day 60.
+And dyspnea, you can see the 36% on day 30 and 30%.
+So so a lot of these symptoms seems to persist beyond day 30 and on all the way to two months after they left the hospital.
+The other interesting finding on this trial was to to see if there were factors associated with symptoms persistence, and they found first the younger age group, a relatively younger age group 40 to 60 were more likely to have this symptoms if the patient was hospitalized, obviously, and if there were, there was evidence of a normal pulmonary auscultation, which are all markers or severe disease.
+So the more severe disease the higher the likelihood and the issue was kind of interesting.
+And this is this is sort of the same result put graphically, so to the right is the odds-ratio of having persistent symptoms.
+So if you receive oxygen, if you have a normal auscultation if you're hospitalized, which is essentially, in my view, the same thing you had a higher odds-ratio of having symptoms.
+And if you were in this age from 40 to 60 also was to the right of the curve.
+So a higher probability of having symptoms.
+So, you know, this is more information regarding the lung COVID which I found interesting.
+This this was age 30 age 60 very similar results.
+The other important trial that was published over the last week was the final report of the Remdesivir.
+And I'm gonna I'm not going to go over the you know, all over the graph and things that the result of this final report was very similar to the original bigger publication, the preliminary report.
+So the end of the story is that that Remdesivir shorten the recovery patients received Remdesivir across the board and this tudy had 10 days.
+They recover as supposed to 15 days of the placebo arms.
+So five day reduction in the recovery, which gives you a rate of recovery of 30% more, 1.29 basically, these are the confidence intervals and this was a statistically significant.
+Unfortunately, the mortality the Kaplan-Meier mortality report A day 15 and 8 29 there wasn't America.
+We better survival with Remdesivir 6.7 versus 11.9 a day, 15 11.4 versus 15 in the placebo warm.
+But both of these differences were know statistically significant.
+So because the house or racial cross one barely course one.
+So I mean, but But you can see that definitely the mortality was less in the Remdesivir, but it was not statistically significant.
+This was a pretty large trial of thousands, you know, more than 1000 patients or so that was the final report of Remdesivir.
+You know, a positive finding, but not know what we expect that especially no impact in mortality, at least in this trial.
+And again, patients with that were receiving oxygen, but not in ECMO or mechanical ventilation, where those who benefit the most was the larger group and was also the group that received more benefit, those who were at the beginning of the disease or not required oxygen, no significant changes.
+And and those at the end of the spectrum also had less of an impact.
+So so the drug should be used presumably early, but in post patient that require oxygen.
+That was that sort of the conclusion of the of the final report.
+And I'm not.
+I'm not going to go into this so I'm going to skip the graph for the sake of time.
+But we discussed that with the original publication and finally one a couple of epidemiological publication.
+First of all, this was interesting.
+Interesting publication in and the MMWR.
+From Arizona, and I think I think the results are really compelling of how you can actually flatten the curve if you implement some changes and not necessarily complete lockdown, which is one of the things that is being discussed.
+And so this is the the number of daily cases in Arizona and you can see.
+After they lifted the stay at home and and the summer came, you can see how traumatic was the increase in cases in our neighboring state, Arizona.
+But then they slowly started to implement measures.
+They limit the public event closure of bars, movie theaters, gyms, movie theaters,  something similar to what we have done here.
+They also mandated the use of mask and enforce the use of mask and you can see how dramatic the decrease in the number of cases occur at the end of the summer.
+So it was a very steep, very high.
+But then when when all these measures that are here listed here were implemented, you can see the decrease in the cases or it is possible to actually flatten significantly the curve with public health measures that I think that's good news for us.
+And finally the CDC again placed the transmission by airborne in their webpage.
+It was removed.
+Originally, it was placed for like a day or so hours, and then it was removed.
+Then they edited.

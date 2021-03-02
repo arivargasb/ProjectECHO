@@ -1,0 +1,107 @@
+thing like I did last week.	0.0
+So it's going to be pretty, pretty, mostly clinical and epidemiological.	0.05516666666666667
+We have a lot of things to cover, but these are some of the main publication.	0.1255
+So the first thing was the data published in The New England Journal about the Moderna vaccine in older patients that, you know influenza and other vaccines are not as influenza vaccines and other vaccines are usually not as effective in older groups, so it's important to take a look at how the new vaccines that we are developing against COVID-19 work in older folks.	0.189
+This publication by Moderna was was welcomed.	0.5885
+They actually look at the data for patients 56 70 and also over 71.	0.653
+And they were testing the two doses in their two protocols, the 25 microgram and a 100 microgram.	0.7845
+And I can tell you right right off the bat that they're gonna use probably the old the higher dose for elderly patients.	0.8856666666666667
+So the 100 microgram dose and we're going to show some of the results today.	1.0233333333333332
+This is the basically the protocol.	1.1066666666666667
+They have four groups.	1.1625
+10 in each group, 10 patients in the group.	1.1855
+This is an early early story, 20 in that group of 56 to 70 and 20 in the more than than 71.	1.2168333333333334
+And they were pretty balanced regarding gender and ethnicity.	1.3395000000000001
+But mostly, mostly, were actually whites are not too many minorities represented in this study, which is an issue with some of these vaccine trials.	1.4171666666666667
+The adverse event.	1.5773333333333333
+It's something that we're used to see.	1.6098333333333334
+The first vaccination, which is the column on the left, doesn't produce that much in the way of adverse events.	1.6411666666666667
+Some local expected local discomfort, but the second dose is definitely much more reactive.	1.7561666666666667
+Janick and this is across the board, younger and older people.	1.8558333333333332
+But it's it's also present in the elderly, so it's important.	1.9071666666666667
+And I think all of the bad things that we have seen are associated with significant react allergenicity, which is bad for the patient.	1.963
+But it's good if you take it in into the if you interpret these as an immunological reaction to the vaccine, so it's not an inert material.	2.0875
+It's actually something that you get some low grade fever, fatigue, soreness in the area of injection, but Hopefully, this will correlate with immune response and talking about immune response that one of the most important markers are the neutralizing antibodies.	2.2188333333333334
+And this.	2.528
+We have the 2 25 doses in the 50 to 70 more than 71 the 100 mg, and you can see that the basically the levels of neutralizing antibody, especially the high dose the 100 mg, produces the same levels of antibody as younger patient.	2.5348333333333333
+This is the column of 18 to 55 from the previous published study, so you can see that the levels of antibodies and the neutralizing antibodies was very similar when you use the 100 microgram in in any age, essentially 56 to 70 and 71.	2.847666666666667
+So that was good news that this vaccine seems to be immunogenic even in in older in older patients.	3.1225
+You send these FRNT, which is one of the assays when you use with the real virus PRNT you can see there's a slight decrease in the neutralizing antibody between the younger group 56 to 70 and more than 71 but still pretty decent levels which are comparable with with what we've seen in the younger population.	3.2445
+So So that's That's the good news about these Moderna vaccine that it seems to be immunogenic for elderly folks.	3.5925000000000002
+And the same thing happens with the T-cell response, the cellular immunity.	3.706166666666667
+Definitely the low dose didn't mount almost any response.	3.7736666666666663
+This is the T CD4 Th1 response.	3.8421666666666665
+But you can see that there's an important cell mediated immunity response in the higher dose for both Group 56 to 70 and more than 71 so that these results are the one that indicate that we're going to probably use the high dose or or the high goes where we use Moderna, especially for early patients.	3.898
+And no, no, Th2 two, which is the the the one that we don't want the type of response that may be associated with pulmonary inflammation.	4.262333333333333
+It's basically not present with any of the doses in any of the age group, so that was also good news.	4.421333333333333
+And and there was one publication on hydroxychloroquine.	4.541666666666667
+I think the only the only area that is still somewhat debatable on hydroxychloroquine is we can use it as pre-exposure prophylaxis.	4.604333333333333
+As you know it's been discarded as a treatment for moderate, mild and severe COVID.	4.764333333333334
+But there's still some some investigator, which think that if you use it early enough, you may have an effect.	4.867500000000001
+But these are double-blind placebo randomized study of hydroxychloroquine in actually healthcare workers.	4.981333333333334
+They were taking these hydroxychloroquine before they they were exposed to COVID.	5.111166666666667
+And when they look at those who were taking and not taking the hydroxychloroquine, no difference.	5.2105
+It's another another negative study for for hydroxychloroquine, in this case as pre-exposure prophylaxis, and we have already post-prophylaxis and a side step treatment.	5.2885
+So hydroxychloroquine so far, no, no good news from from that, An article that was actually pushed at the beginning of the of the pandemic assess a possible treatment based on the in vitro study in Vero cells.	5.461833333333333
+But there's definitely no no clinical efficacy in this clinical trial.	5.713833333333333
+Another, another topic that we have been discussing is the long COVID, and I found this recent paper published in Clinical Microbiology and Infection.	5.863833333333333
+It's actually a pretty well known study on follow up of patient with no critical COVID because, as you know, there has been the discussion that some of this long COVID symptoms are may be related to the fact that the patient is in ICU, intubated, inmobile.	6.031333333333333
+So they when they leave the hospital, they're weak, that they still have some long issues.
+They have a lot of fatigue, and people have a speculated that that this may be partly just due to the, you know, the the critical face of the disease.	6.352833333333334
+So this author's actually look at the non-critical COVID patients, and they follow them for 60 days.	6.491166666666667
+And they did, like, standardized questionnaires on these patients and register the symptomatology.	6.595666666666667
+And they actually initially enroll 293 patients.	6.705
+They ended up because some patients were not known included 101 with mild to moderate COVID and 29 with severe COVID.	6.805000000000001
+But non-critical, not ICU COVID, And the results, what we suspected that a high, very high percentage of patient on day 30 and a 60 almost almost two third of the patients, they have persistent symptoms.	6.934666666666667
+So more than one or more symptoms in basically two third and this persisted all the way out to the 60 day follow up.	7.223166666666667
+So it's a pretty, you know, prevalent issue.	7.367666666666667
+Some of the most frequent symptoms was the loss of sense off smell and taste.	7.450666666666667
+The anosmia and ageusia we have at the onset 59% hearted on day 30 28 they 60 still, like one quarter of the patient, have these these anosmia, or loss of taste.	7.531833333333334
+Also astenia, which was not reported in the initial information with 50% in day 30 and 40% on day 60.	7.7935
+And dyspnea, you can see the 36% on day 30 and 30%.	7.9845
+So so a lot of these symptoms seems to persist beyond day 30 and on all the way to two months after they left the hospital.	8.085833333333333
+The other interesting finding on this trial was to to see if there were factors associated with symptoms persistence, and they found first the younger age group, a relatively younger age group 40 to 60 were more likely to have this symptoms if the patient was hospitalized, obviously, and if there were, there was evidence of a normal pulmonary auscultation, which are all markers or severe disease.	8.183166666666667
+So the more severe disease the higher the likelihood and the issue was kind of interesting.	8.575666666666667
+It was not the older or the younger, but actually like like the middle of the of the group, 
+And this is this is sort of the same result put graphically, so to the right is the odds-ratio of having persistent symptoms.	8.656333333333333
+So if you receive oxygen, if you have a normal auscultation if you're hospitalized, which is essentially, in my view, the same thing you had a higher odds-ratio of having symptoms.	8.868166666666667
+And if you were in this age from 40 to 60 also was to the right of the curve.	9.054
+So a higher probability of having symptoms.	9.134500000000001
+So, you know, this is more information regarding the lung COVID which I found interesting.	9.1895
+This this was age 30 age 60 very similar results.	9.276166666666667
+The other important trial that was published over the last week was the final report of the Remdesivir.	9.375666666666666
+And I'm gonna I'm not going to go over the you know, all over the graph and things that the result of this final report was very similar to the original bigger publication, the preliminary report.	9.493166666666667
+So the end of the story is that that Remdesivir shorten the recovery patients received Remdesivir across the board and this tudy had 10 days.	9.6805
+They recover as supposed to 15 days of the placebo arms.	9.832833333333333
+So five day reduction in the recovery, which gives you a rate of recovery of 30% more, 1.29 basically, these are the confidence intervals and this was a statistically significant.	9.900666666666666
+Unfortunately, the mortality the Kaplan-Meier mortality report A day 15 and 8 29 there wasn't America.	10.103666666666667
+We better survival with Remdesivir 6.7 versus 11.9 a day, 15 11.4 versus 15 in the placebo warm.	10.252833333333333
+But both of these differences were know statistically significant.	10.402166666666666
+So because the house or racial cross one barely course one.	10.487
+So I mean, but But you can see that definitely the mortality was less in the Remdesivir, but it was not statistically significant.	10.562166666666666
+This was a pretty large trial of thousands, you know, more than 1000 patients or so that was the final report of Remdesivir.	10.706
+You know, a positive finding, but not know what we expect that especially no impact in mortality, at least in this trial.	10.844166666666666
+And again, patients with that were receiving oxygen, but not in ECMO or mechanical ventilation, where those who benefit the most was the larger group and was also the group that received more benefit, those who were at the beginning of the disease or not required oxygen, no significant changes.	10.951666666666666
+And and those at the end of the spectrum also had less of an impact.	11.253166666666667
+So so the drug should be used presumably early, but in post patient that require oxygen.	11.318333333333333
+That was that sort of the conclusion of the of the final report.	11.399166666666668
+And I'm not.	11.471166666666667
+I'm not going to go into this so I'm going to skip the graph for the sake of time.	11.477333333333332
+But we discussed that with the original publication and finally one a couple of epidemiological publication.	11.529166666666667
+First of all, this was interesting.	11.674333333333333
+Interesting publication in and the MMWR.	11.716333333333333
+From Arizona, and I think I think the results are really compelling of how you can actually flatten the curve if you implement some changes and not necessarily complete lockdown, which is one of the things that is being discussed.	11.767
+And so this is the the number of daily cases in Arizona and you can see.	11.9895
+After they lifted the stay at home and and the summer came, you can see how traumatic was the increase in cases in our neighboring state, Arizona.	12.065
+But then they slowly started to implement measures.	12.239166666666668
+They limit the public event closure of bars, movie theaters, gyms, movie theaters,  something similar to what we have done here.	12.299333333333333
+They also mandated the use of mask and enforce the use of mask and you can see how dramatic the decrease in the number of cases occur at the end of the summer.	12.408
+So it was a very steep, very high.	12.609166666666665
+But then when when all these measures that are here listed here were implemented, you can see the decrease in the cases or it is possible to actually flatten significantly the curve with public health measures that I think that's good news for us.	12.6495
+And finally the CDC again placed the transmission by airborne in their webpage.	12.917333333333334
+It was removed.	13.0815
+Originally, it was placed for like a day or so hours, and then it was removed.	13.092833333333335
+Then they edited.	13.172333333333334
+And then they finally made a final statement on these that the cancelled times we spread by airborne transmission and how COVID spreads the CDC webpage.	13.186666666666667
+I think that's the last one.	13.370833333333334
+Thank you.	13.404

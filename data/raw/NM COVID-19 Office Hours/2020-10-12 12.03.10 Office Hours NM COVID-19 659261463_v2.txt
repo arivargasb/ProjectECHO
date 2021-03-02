@@ -1,0 +1,618 @@
+thing like I did last week.	0.0
+So it's going to be pretty, pretty, mostly clinical and epidemiological.	0.05516666666666667
+We have a lot of things to cover, but these are some of the main publication.	0.1255
+So the first thing was the data published in The New England Journal about the Moderna vaccine in older patients that, you know influenza and other vaccines are not as influenza vaccines and other vaccines are usually not as effective in older groups, so it's important to take a look at how the new vaccines that we are developing against COVID-19 work in older folks.	0.189
+This publication by Moderna was was welcomed.	0.5885
+They actually look at the data for patients 56 70 and also over 71.	0.653
+And they were testing the two doses in their two protocols, the 25 microgram and a 100 microgram.	0.7845
+And I can tell you right right off the bat that they're gonna use probably the old the higher dose for elderly patients.	0.8856666666666667
+So the 100 microgram dose and we're going to show some of the results today.	1.0233333333333332
+This is the basically the protocol.	1.1066666666666667
+They have four groups.	1.1625
+10 in each group, 10 patients in the group.	1.1855
+This is an early early story, 20 in that group of 56 to 70 and 20 in the more than than 71.	1.2168333333333334
+And they were pretty balanced regarding gender and ethnicity.	1.3395000000000001
+But mostly, mostly, were actually whites are not too many minorities represented in this study, which is an issue with some of these vaccine trials.	1.4171666666666667
+The adverse event.	1.5773333333333333
+It's something that we're used to see.	1.6098333333333334
+The first vaccination, which is the column on the left, doesn't produce that much in the way of adverse events.	1.6411666666666667
+Some local expected local discomfort, but the second dose is definitely much more reactive.	1.7561666666666667
+Janick and this is across the board, younger and older people.	1.8558333333333332
+But it's it's also present in the elderly, so it's important.	1.9071666666666667
+And I think all of the bad things that we have seen are associated with significant react allergenicity, which is bad for the patient.	1.963
+But it's good if you take it in into the if you interpret these as an immunological reaction to the vaccine, so it's not an inert material.	2.0875
+It's actually something that you get some low grade fever, fatigue, soreness in the area of injection, but Hopefully, this will correlate with immune response and talking about immune response that one of the most important markers are the neutralizing antibodies.	2.2188333333333334
+And this.	2.528
+We have the 2 25 doses in the 50 to 70 more than 71 the 100 mg, and you can see that the basically the levels of neutralizing antibody, especially the high dose the 100 mg, produces the same levels of antibody as younger patient.	2.5348333333333333
+This is the column of 18 to 55 from the previous published study, so you can see that the levels of antibodies and the neutralizing antibodies was very similar when you use the 100 microgram in in any age, essentially 56 to 70 and 71.	2.847666666666667
+So that was good news that this vaccine seems to be immunogenic even in in older in older patients.	3.1225
+You send these FRNT, which is one of the assays when you use with the real virus PRNT you can see there's a slight decrease in the neutralizing antibody between the younger group 56 to 70 and more than 71 but still pretty decent levels which are comparable with with what we've seen in the younger population.	3.2445
+So So that's That's the good news about these Moderna vaccine that it seems to be immunogenic for elderly folks.	3.5925000000000002
+And the same thing happens with the T-cell response, the cellular immunity.	3.706166666666667
+Definitely the low dose didn't mount almost any response.	3.7736666666666663
+This is the T CD4 Th1 response.	3.8421666666666665
+But you can see that there's an important cell mediated immunity response in the higher dose for both Group 56 to 70 and more than 71 so that these results are the one that indicate that we're going to probably use the high dose or or the high goes where we use Moderna, especially for early patients.	3.898
+And no, no, Th2 two, which is the the the one that we don't want the type of response that may be associated with pulmonary inflammation.	4.262333333333333
+It's basically not present with any of the doses in any of the age group, so that was also good news.	4.421333333333333
+And and there was one publication on hydroxychloroquine.	4.541666666666667
+I think the only the only area that is still somewhat debatable on hydroxychloroquine is we can use it as pre-exposure prophylaxis.	4.604333333333333
+As you know it's been discarded as a treatment for moderate, mild and severe COVID.	4.764333333333334
+But there's still some some investigator, which think that if you use it early enough, you may have an effect.	4.867500000000001
+But these are double-blind placebo randomized study of hydroxychloroquine in actually healthcare workers.	4.981333333333334
+They were taking these hydroxychloroquine before they they were exposed to COVID.	5.111166666666667
+And when they look at those who were taking and not taking the hydroxychloroquine, no difference.	5.2105
+It's another another negative study for for hydroxychloroquine, in this case as pre-exposure prophylaxis, and we have already post-prophylaxis and a side step treatment.	5.2885
+So hydroxychloroquine so far, no, no good news from from that, An article that was actually pushed at the beginning of the of the pandemic assess a possible treatment based on the in vitro study in Vero cells.	5.461833333333333
+But there's definitely no no clinical efficacy in this clinical trial.	5.713833333333333
+Another, another topic that we have been discussing is the long COVID, and I found this recent paper published in Clinical Microbiology and Infection.	5.863833333333333
+It's actually a pretty well known study on follow up of patient with no critical COVID because, as you know, there has been the discussion that some of this long COVID symptoms are may be related to the fact that the patient is in ICU, intubated, inmobile.	6.031333333333333
+So they when they leave the hospital, they're weak, that they still have some long issues.
+They have a lot of fatigue, and people have a speculated that that this may be partly just due to the, you know, the the critical face of the disease.	6.352833333333334
+So this author's actually look at the non-critical COVID patients, and they follow them for 60 days.	6.491166666666667
+And they did, like, standardized questionnaires on these patients and register the symptomatology.	6.595666666666667
+And they actually initially enroll 293 patients.	6.705
+They ended up because some patients were not known included 101 with mild to moderate COVID and 29 with severe COVID.	6.805000000000001
+But non-critical, not ICU COVID, And the results, what we suspected that a high, very high percentage of patient on day 30 and a 60 almost almost two third of the patients, they have persistent symptoms.	6.934666666666667
+So more than one or more symptoms in basically two third and this persisted all the way out to the 60 day follow up.	7.223166666666667
+So it's a pretty, you know, prevalent issue.	7.367666666666667
+Some of the most frequent symptoms was the loss of sense off smell and taste.	7.450666666666667
+The anosmia and ageusia we have at the onset 59% hearted on day 30 28 they 60 still, like one quarter of the patient, have these these anosmia, or loss of taste.	7.531833333333334
+Also astenia, which was not reported in the initial information with 50% in day 30 and 40% on day 60.	7.7935
+And dyspnea, you can see the 36% on day 30 and 30%.	7.9845
+So so a lot of these symptoms seems to persist beyond day 30 and on all the way to two months after they left the hospital.	8.085833333333333
+The other interesting finding on this trial was to to see if there were factors associated with symptoms persistence, and they found first the younger age group, a relatively younger age group 40 to 60 were more likely to have this symptoms if the patient was hospitalized, obviously, and if there were, there was evidence of a normal pulmonary auscultation, which are all markers or severe disease.	8.183166666666667
+So the more severe disease the higher the likelihood and the issue was kind of interesting.	8.575666666666667
+It was not the older or the younger, but actually like like the middle of the of the group, 
+And this is this is sort of the same result put graphically, so to the right is the odds-ratio of having persistent symptoms.	8.656333333333333
+So if you receive oxygen, if you have a normal auscultation if you're hospitalized, which is essentially, in my view, the same thing you had a higher odds-ratio of having symptoms.	8.868166666666667
+And if you were in this age from 40 to 60 also was to the right of the curve.	9.054
+So a higher probability of having symptoms.	9.134500000000001
+So, you know, this is more information regarding the lung COVID which I found interesting.	9.1895
+This this was age 30 age 60 very similar results.	9.276166666666667
+The other important trial that was published over the last week was the final report of the Remdesivir.	9.375666666666666
+And I'm gonna I'm not going to go over the you know, all over the graph and things that the result of this final report was very similar to the original bigger publication, the preliminary report.	9.493166666666667
+So the end of the story is that that Remdesivir shorten the recovery patients received Remdesivir across the board and this tudy had 10 days.	9.6805
+They recover as supposed to 15 days of the placebo arms.	9.832833333333333
+So five day reduction in the recovery, which gives you a rate of recovery of 30% more, 1.29 basically, these are the confidence intervals and this was a statistically significant.	9.900666666666666
+Unfortunately, the mortality the Kaplan-Meier mortality report A day 15 and 8 29 there wasn't America.	10.103666666666667
+We better survival with Remdesivir 6.7 versus 11.9 a day, 15 11.4 versus 15 in the placebo warm.	10.252833333333333
+But both of these differences were know statistically significant.	10.402166666666666
+So because the house or racial cross one barely course one.	10.487
+So I mean, but But you can see that definitely the mortality was less in the Remdesivir, but it was not statistically significant.	10.562166666666666
+This was a pretty large trial of thousands, you know, more than 1000 patients or so that was the final report of Remdesivir.	10.706
+You know, a positive finding, but not know what we expect that especially no impact in mortality, at least in this trial.	10.844166666666666
+And again, patients with that were receiving oxygen, but not in ECMO or mechanical ventilation, where those who benefit the most was the larger group and was also the group that received more benefit, those who were at the beginning of the disease or not required oxygen, no significant changes.	10.951666666666666
+And and those at the end of the spectrum also had less of an impact.	11.253166666666667
+So so the drug should be used presumably early, but in post patient that require oxygen.	11.318333333333333
+That was that sort of the conclusion of the of the final report.	11.399166666666668
+And I'm not.	11.471166666666667
+I'm not going to go into this so I'm going to skip the graph for the sake of time.	11.477333333333332
+But we discussed that with the original publication and finally one a couple of epidemiological publication.	11.529166666666667
+First of all, this was interesting.	11.674333333333333
+Interesting publication in and the MMWR.	11.716333333333333
+From Arizona, and I think I think the results are really compelling of how you can actually flatten the curve if you implement some changes and not necessarily complete lockdown, which is one of the things that is being discussed.	11.767
+And so this is the the number of daily cases in Arizona and you can see.	11.9895
+After they lifted the stay at home and and the summer came, you can see how traumatic was the increase in cases in our neighboring state, Arizona.	12.065
+But then they slowly started to implement measures.	12.239166666666668
+They limit the public event closure of bars, movie theaters, gyms, movie theaters,  something similar to what we have done here.	12.299333333333333
+They also mandated the use of mask and enforce the use of mask and you can see how dramatic the decrease in the number of cases occur at the end of the summer.	12.408
+So it was a very steep, very high.	12.609166666666665
+But then when when all these measures that are here listed here were implemented, you can see the decrease in the cases or it is possible to actually flatten significantly the curve with public health measures that I think that's good news for us.	12.6495
+And finally the CDC again placed the transmission by airborne in their webpage.	12.917333333333334
+It was removed.	13.0815
+Originally, it was placed for like a day or so hours, and then it was removed.	13.092833333333335
+Then they edited.	13.172333333333334
+And then they finally made a final statement on these that the cancelled times we spread by airborne transmission and how COVID spreads the CDC webpage.	13.186666666666667
+I think that's the last one.	13.370833333333334
+Thank you.	13.404
+Yeah.	13.449000000000002
+Johana?	13.484166666666665
+Yeah.	13.575666666666667
+Oh, very interesting.	13.587833333333332
+There.	13.624500000000001
+Oh, thanks.	13.635666666666667
+Thanks, Nestor.	13.661666666666667
+Always.	13.6755
+So.	13.681666666666667
+I learned so much so quickly with with your power points.	13.697333333333335
+Thank you so much.	13.752666666666666
+And I wanted to introduce Doctor Leslie Hayes.	13.774833333333333
+Leslie has a power point as well.	13.834
+And we're going to take questions as you have questions from doctor Sosa's Power Point, please put them in the chat any time on and we will get to that.	13.898
+And after after we introduce our hub team members.	14.0435
+So Leslie Hayes and I'm struggling to get this up one second.	14.1025
+Take your time.	14.182166666666665
+I thought I might have to have words with Dr. Sosa So when you presented a slide show that showed, um, for us study that showed 56 to 70 is elderly.	14.257333333333333
+But you redeemed yourself when you called 40 to 60 young with the next study, So Ah, boy, I don't know why this is just not popping up for me here.	14.399833333333333
+Oh, my God.	14.604000000000001
+Elena, do you have it?	14.684
+Because I just I can't get it to come up today.	14.700333333333333
+I don't know why.	14.730333333333334
+What's going on here?	14.738166666666666
+So yes, I do.	14.752666666666666
+Okay.	14.799000000000001
+Ah wait found it.	15.198666666666666
+Can you see it?	15.390666666666668
+Can you guys see my slides or No?	15.480666666666668
+Yes.	15.525
+Okay.	15.53
+Great thanks.	15.533666666666667
+Yes.	15.557333333333334
+Okay.	15.563666666666668
+Um, when I was gonna present, I thought this was a pretty cool article.	15.599666666666668
+It's from JAMA.	15.642833333333334
+And it was on the science of persuasion.	15.66
+How you can, um I guess there's actually been a lot of studies on How do you persuade people to do things and, um, opportune lessons for COVID-19 prevention.	15.693999999999999
+So they talked about the five habit promoting strategies which, um, if you want somebody to develop a habit, get exercising or, um, eating more vegetables or wearing a mask.	15.835666666666667
+They said there's five things to do.	16.033666666666665
+You want to make it easy to start and easy to repeat.	16.0545
+You wanna make it rewarding to repeat, you want to tie the behavior to an existing habit.	16.108166666666666
+And I know I do this with people all the time suggesting they take pills when they first like that, and talk about behaviors that conflict with existing habits and provide alternative behaviors and provide specific descriptions of desire behaviors and they discussed for, um, the first one of making the behavior easy to start.	16.178833333333333
+Repeat, making handwashing stations and hand sanitizer available everywhere really makes a difference on how often people wash their hands, and you know it's obvious.	16.488166666666665
+But, um, often we don't have hand sanitizer readily available, so making it readily available.	16.63383333333333
+Then they talk about leaving mask right next to the front door.	16.717333333333332
+So they're easy to grab.	16.758
+You leave the house, and then I've certainly seen this most places I go in public anywhere where they have marks on the floor demonstrating 6 ft apart, and that just makes it so easy to stay 6 ft from.	16.774333333333335
+Other people also talked about communication and clear, consistent messaging.	16.942666666666664
+And they said, This is actually most important at the local level, and I feel like we've gotten pretty good messaging, clear, consistent messaging on a state level, which made me feel good about it.	17.056333333333335
+One thing they talked about it...	17.205666666666666
+The media has really been guilty about this so many pictures of, uh, people on the beaches or, um, at Sturgis or wherever, not doing what they're supposed to, because when you highlight the bad behavior.	17.25583333333333
+It makes people think it's more prevalent than it actually is.	17.463
+It tends to make people less willing to, um, actually do what you want them to do.	17.503666666666668
+So you really want to be highlighting people doing what they're supposed to And then the other one that, unfortunately, the medical field, that a really bad job that initially is conceding uncertainty.	17.571666666666665
+And we're interested the TV for medical people, you know, we just said there was no evidence for wearing it in public, and I still to this day I have people posting on Facebook that, you know, Doctor Fauci or the surgeon general said not to wear masks and, you know, it's from back in March.	17.752333333333336
+But people absolutely believe that message from back in March.	18.0275
+So rather than saying, you know, this is what is true, we want to say, based on what we know today, it's sort of conceived we'd still don't know.	18.0875
+We're still learning lessons about this and then Scientific American and, um, published something This week, COVID is actually the third leading cause of death in the US for this year.	18.192666666666664
+It became the third leading cause of death March 4th and it was actually the first leading cause of death from April 5th to May 3rd.	18.390666666666668
+And it's been the third leading cause of death with about the year and then indirect effects on Children in New York state.	18.49816666666667
+This one was actually really quite heartbreaking.	18.6335
+Um, the United Hospital Fund found that 4200 Children in New York had lost a parent to COVID-19 this year.	18.675666666666665
+About 950 were Children, single parents and say, Well, they lost their only parent.	18.800666666666665
+Um oh, it was one in 1000 Children in New York state lost a parent to COVID-19, um, one in 600 black Children, one in 700 Hispanic Children in one of 1500 white Children, Um, 57% were in Queens, Brooklyn or the Bronx, which were the hardest hit areas.	18.905666666666665
+That was really that was fairly heartbreaking.	19.1955
+And then they also found that 325,000 Children were pushed into poverty or near poverty in New York, which was roughly 8% of Children in New York who had not been poverty before COVID-19 started.	19.24233333333333
+And they estimated it was gonna cost anywhere from 550 to 800 million just to support the basic needs of these Children and household severe new, newly newly in or near poverty over the next year.	19.432833333333335
+And they estimate that 40% of low income workers lost their jobs throughout the United States.	19.640666666666668
+And those, of course, are the people who are the least able to absorb financial hit like that.	19.716333333333335
+And I decided not to go into this.	19.845666666666666
+This is fairly similar to the one I presented from Minnesota Department of Health last week, but there was a COVID-19 response toolkit it from the public elementary schools on how to deal with Children who are symptomatic or have a positive COVID in their family or an exposure, and then also updating from American Academy of Pediatrics on COVID-19 testing guidance.	19.875666666666667
+And like I said, they're fairly similar to what we've already talked about.	20.218833333333336
+But it was nice to have something from local, and the last was just some articles that I thought were really good.	20.259999999999998
+I didn't necessarily think it was worth summarizing, but I thought they were worth either reading yourself or passing along to that difficult uncle on Facebook, COVID-19 myth busting by Robin.	20.366333333333333
+I don't know how to pronounce it.	20.532
+Schoenthaler I think she posts a lot on Facebook.	20.5455
+She's worth following on Facebook just for her post, but she wrote an article for Medium on the various myths around COVID, and this was quite good.	20.593166666666665
+Um, UCSF had a grand rounds on October 6th.	20.73483333333333
+Um, and they discuss President Trump's COVID-19 diagnosis and just sort of what it meant from a medical standpoint.	20.785500000000003
+What you could tell what, um, what we know about the medications that were used to treat him.	20.8905
+It's veal on YouTube and then, um actually, um, the grand rounds has an hour and a half.	20.999333333333333
+I didn't have time to watch it, but Julie Thompson MD is on Facebook, and she summarized it under her personal Facebook page.	21.120166666666666
+She's from Oakland.	21.21783333333333
+There's multiple Julie Thompson's, but, um, her summary was really excellent, and I think it's worth looking at if you're on Facebook and then Emily Auster's schools aren't super spreaders from the Atlantic.	21.228833333333334
+I'm still waiting to see definitive medical articles on this, but this was quite a good summary.	21.403000000000002
+And then Elizabeth Ralph here, how the pandemic finally ends was also an article that was definitely worth reading.	21.494000000000003
+And that was everything I had.	21.601499999999998
+Thank you.	21.695666666666668
+Thank you so much.	21.706833333333336
+Leslie.	21.723333333333336
+It is.	21.733333333333334
+Ah, so great to get your take on what's important out there in the ambulatory world.	21.740666666666666
+It's It's really great to get both both these, uh, both yours and Nestor's, some inputs I'd like to introduce, just to say hi.	21.84
+Marla does not have a any update today.	22.011166666666668
+But, Marla, if you can just so everyone knows who you are real quick.	22.05933333333333
+Hello everyone.	22.12633333333333
+Senior epidemiologists at the Department of Health.	22.14816666666667
+Thanks, Marla.	22.19183333333333
+And then Karissa Culbreath.	22.212833333333332
+Um, could you just let everybody know who you are from TriCor scientists.	22.2485
+I am.	22.377333333333336
+I'm I'm one of the medical director for infectious disease diagnosis here, a TriCor.	22.389833333333335
+And also my colleague, Doctor Cecilia Thompson, is also here on the call today.	22.468833333333336
+Thank you so much, Karisa.	22.5365
+And then, um my colleague at Project ECHO.	22.569000000000003
+Uh, Carla Thornton is one of the senior associate Director is Carla.	22.6385
+Um are you here?	22.715666666666667
+Yeah, I'm here.	22.764333333333333
+Hi, everyone.	22.774166666666666
+Afternoon.	22.788999999999998
+Carla Thornton here Division of Infectious Diseases.	22.799666666666667
+Is that, um great.	22.826666666666664
+Carla, Um Carla, do you wanna start with some questions?	22.86
+Yeah.	22.937833333333334
+Thank you to another.	22.9425
+Quite a few questions on the chat.	22.956833333333336
+Um, well, to start with a doctor, Sybil had a question on those with prolonged symptoms.	22.981833333333334
+Does that correlate with prolonged viral shedding and infectivity?	23.067666666666664
+Think Nestor, from your initial.	23.134666666666664
+You know, I haven't seen that correlation.	23.159499999999998
+Uh, I know that severe patient who have severe acute COVID meaning patients were in the ICU or hospitalized.	23.223333333333336
+They tend to have a longer viral shedding than those who have milder asymptomatic disease.	23.361333333333334
+But I haven't seen the correlation between long COVID the invasion recover and viral shedding.	23.465833333333332
+And I think that's that's one of the questions.	23.561666666666667
+If this is a viral phenomenon or any immune phenomenon and we still don't know, I know they're looking into that actively, they're they're they're having this cohort of patients in which they're doing immunological studies to see what type of immune reaction they have.	23.595833333333335
+They trying to look for the virus in different issues to see if there's any persistent in the C and s or somewhere else.	23.827333333333335
+But I haven't seen anything published yet.	23.924166666666668
+Thank you Nestor.	23.980666666666664
+Um, I think Marla.	24.007333333333335
+This is probably for you, because they're they're a few preregistration questions.	24.03083333333333
+And then there's one in the chat about, you know, at least in New Mexico, this larger increase the number of cases that that we've seen in the last couple of weeks, if there's least what what you guys were thinking about, what the explanation of that, uh, increase.	24.083666666666666
+You know, right now, we think that there's multiple factors, we kind of had many things change all at the same time.	24.433
+So we have the long Labor Day holiday, and we know from our case interviews that there were a lot of people who traveled, had people from out of state travel to visit them.	24.496666666666666
+Lots of family get togethers, Um, and at the same time, you know that very same weekend we liberalized indoor dining.	24.672833333333333
+Indoor dining was open again.	24.826
+Um, the number of people that you were allowed to have in an indoor space, um, increased things were, you know, looking good heading into that weekend.	24.8575
+Um, you know, some schools returned to in person learning, and, um, there were multiple other kind of recreational activities that were given the green light to open back up.	24.994333333333334
+So you suddenly had, um, this long holiday weekend where you had travel.	25.188666666666666
+You have family get togethers, events, and you also had people spending more time in.	25.264666666666667
+You know, indoor spaces like restaurants, breweries, bars, um, skating rings, pumpkin patches, this, you know, sort of etcetera.	25.365666666666666
+There were a lot of things that were kind of given the green light at the same time.	25.524833333333333
+And so we think it's really a cumulative effect of all of those things, not only one thing.	25.581833333333336
+But people definitely have reported increasing group activities and traveled, including dining.	25.670666666666666
+Thank you Marla, and there was another question just about whether how much you can, how much you can explain by the increase in testing cause do you think that the increased in testing has added to the numbers significantly or not?	25.787333333333333
+You know, the testing numbers right now really are sort of back up to where we have been through the spring and early part of the summer.	26.03783333333333
+We had a drop off and testing, you know, kind of late July and August, but where we are now, it's kind of where we had been through the late spring and early summer, so there's not been a significant increase in in testing throughout the state.	26.142833333333332
+Thank you very much.	26.394000000000002
+A couple other questions.	26.425666666666665
+Um, Claudia Guzman said If COVID-19 is airborne, then we'd have to improve the of insulation in many or most places to create negative pressure.	26.462
+How's this being addressed?	26.614166666666666
+Nestor, You have any ideas?	26.680666666666664
+No.	26.722666666666665
+I mean, I can comment on what the at least a hypothetical er or scientific data says, You know, ideally, yeah, if you're gonna be in a closed space, ideally that that room should have negative pressure.	26.735500000000002
+But obviously that's not feasible in most, you know, stores, you know, supermarkets, etcetera.	26.953333333333333
+So, you know, have to go to to have good ventilation if possible, to stop it like an air current.	27.058833333333332
+In some places, open the windows and the doors.	27.15983333333333
+If it's possible with the weather that that should help.	27.203666666666667
+Also conducting activities outdoors as opposed to indoor.	27.256666666666668
+And we've been doing that with restaurants and other things.	27.33083333333333
+I peak off, etcetera, so you know, everything helps a little bit.	27.392666666666667
+I think it's ah, it's a matter off improving, and if you're gonna be in a closed space, Hopefully there won't be that many people decreasing the chance of running into somebody with COVID.	27.462833333333332
+So so, no crowding, indoor spaces is also critical.	27.637166666666666
+So there.	27.71066666666667
+I think there are many, many factors.	27.7225
+I wanted to add something to the comment Before tomorrow, we are seeing the number of places in the hospital also pick up.	27.746333333333332
+So I agree.	27.847666666666665
+It's not just the testing thing, is definitely real.	27.857833333333335
+We're starting to see patients in the ICU today.	27.9015
+I have consented a couple of patients in the in the active trial, which is, you know, you usually get once a week.	27.942833333333333
+We have three or four today between doctor Harkins and I.	28.043
+So So we're seeing the numbers go up and the hospitalization go up.	28.115000000000002
+Definitely it's not It's not our imagination.	28.170833333333334
+Thank you Nestor.	28.262333333333334
+And Barbara Oakland just put in the chat.	28.2685
+What about people who are working inpatient care and clinics?	28.311666666666667
+Where there's you can't open the window, there's no you know, there's no clear way to do that.	28.375833333333333
+It's a big question.	28.478166666666667
+My clinic is actually going to get an environmental engineer to come in and see how we can improve ventilations.	28.515666666666668
+So that is, I mean, it's not cheap, but that is one possible suggestion.	28.595833333333335
+Is, um, environmental engineer's can come in and sort of evaluate for that, right?	28.670166666666667
+Exactly.	28.754666666666665
+Improving a meaning increasing the air changes in the room helps, obviously, And that's what we do in the hospital.	28.76383333333333
+If you cannot, you cannot actually open the windows then then having ah more efficient system that will will get free or fresh air and frequent changes.	28.903000000000002
+It's it's helpful, as supposed to having a completely circulated area in a closed environment.	29.158333333333335
+I think, you know certain there's actually one more related question.	29.268666666666665
+Maybe it's answered.	29.307166666666667
+Jeff Miller asked any thoughts on data on whether HEPA air filters may help in outpatient settings in exam rooms and things like that.	29.322333333333333
+This is Marla.	29.494000000000003
+The PA did put out, um, sort of a statement with some guidance about using indoor HEPA filters and portable air filtration systems and enclosed environments, um, as to augment really kind of bringing in fresh air and that if you're not able to bring in fresh air, that this would sort of be better than nothing.	29.511666666666667
+So they do have some information about the use of HEPA filters indoors, but really, you know, they say it's to augment, fresh air and many of the other engineering and administrative measures you have in place for protection.	29.917666666666666
+I think you know, that's one thing that's important to remember is there's no sort of one thing that is going to protect everyone from COVID transmission.	30.154333333333334
+It's really looking at, you know, the different situations and the different indoor environments and trying to layer on that protection as much as possible.	30.288
+So you know people who are masked, Um, if you're in a healthcare setting wearing appropriate PPE, increasing air exchange is bringing in fresh air, if you can, using portable filtration if you can, screening people before they come into a space for signs and symptoms, you know good handwashing, good surface disinfection.	30.43933333333333
+So you're kind of trying to layer on all of these measures to, you know, create some protection in those environments.	30.771666666666665
+But, you know, unfortunately, there's really no one thing which is going to protect everyone all the time or is really available to everyone in different settings.	30.904
+And he Marla, there's a question Jen Blanchard, can you a new yourself, a question that you put into the chat.	31.077333333333335
+If not, I can ask it for you.	31.192333333333334
+I don't I do not see her on video.	31.212833333333332
+Um, Jan Blanchard asked a question she wanted to clarify, but what?	31.3145
+She thinks Doctor Spray said last Thursday last Thursday that young people less than 30.	31.381833333333336
+If their chief complaint is primarily in nausea without your eye symptoms, do you go ahead and obtain a COVID test and anyone speak to that?	31.482333333333333
+Maybe Marlott, you can.	31.674
+I don't know.	31.692333333333334
+I didn't hear exactly what doctors Grace said during that meeting.	31.709999999999997
+But anyone who has symptoms, we would encourage them to be tested.	31.7835
+We've certainly talked to young people.	31.862333333333332
+And, um, a lot of younger people who say, you know, they they thought it was allergies, right?	31.900666666666666
+So they had some very mild, maybe nasal congestion.	31.990333333333336
+No other symptoms, really.	32.054
+And then when they did get tested, were positives.	32.081833333333336
+So I think someone has symptoms, you know, even some of the more unusual symptoms, like GI eye symptoms without another explanation,  they should be tested.	32.129666666666665
+Yeah.	32.304
+Thank you.	32.307833333333335
+I think that's what her really question was.	32.312333333333335
+It sounds like people just have nausea alone, that whether or not they should be tested, But it sounds like, um, pretty much anybody should be tested with with any sort of symptoms at this point.	32.33133333333333
+So back to you Jen?	32.50566666666666
+Uh, thanks, Carla.	32.52283333333333
+Uh huh.	32.55916666666666
+Um, I just wanted to, uh, see, maybe if Doctor McCabe moving about McCabe is on the call.	32.58233333333333
+If she maybe wants to ask her question about the CDC and kids and face masks, Yes.	32.72683333333333
+Uh, hello, Everyone hi.	32.87116666666667
+Uh, the CDC guideline says Children less than two should not be wearing face masks.	32.908
+Some pediatricians are saying Children less than five should not be wearing a face mask.	33.02166666666667
+I'm just wondering, what are we What are we How do we guide our clients on this?	33.11866666666666
+Here's doctor Hayes.	33.2515
+I'm just going to comment that I have seen a lot of 2 to 5 year olds in clinic recently, and not one has had trouble wearing that face mask correctly.	33.26533333333334
+So, um, it definitely can be done.	33.379
+I don't know if in a setting like a day care how easy it would be to keep it on all day, but I will tell you for a medical setting, it has not been an issue at all.	33.43566666666667
+Thanks doctor Hayes, Nestor or Marla.	33.690666666666665
+Any thoughts on that?	33.75233333333333
+No, I don't have any anything.	33.793
+I mean, I have I have an eight year old at home and she wears the mask.	33.827
+But I know when she's in school, she sometimes just put it below the nose, and I have tried to tell her not to do that, but it's like, you know, she's eight years old.	33.88616666666667
+It's hard, Thank you.	34.016333333333336
+And Doctor McCabe, you had another question.	34.0815
+I'll just read it because it relates to the airborne issues that we were talking about before.	34.126333333333335
+And your question is about UV light.	34.230333333333334
+And is that another option?	34.28283333333333
+If I'm thinking if you're indoors, Um, might that be another option?	34.311166666666665
+Doctor Sosa have you seen any studies?	34.410666666666664
+I read a Jet Blue I think one of the airlines is using kind of UV light as one of the ways to perhaps some, uh, you know, clean the airplane or do something, right?	34.515
+I mean, I've seen this mostly on press release and think mostly on the press, like people using these robots with UV light in airports and large areas where the, you know, in in anything at the moment where there's no clients around.	34.745666666666665
+They actually have done this, but I haven't really seen that much.	35.003166666666665
+I mean, I remember at the beginning of the of the epidemic we had to do.	35.059
+So use UV-lights or or hydrogen peroxide peroxide, toe clean or mask, our N95 or or sterilize our N95.	35.11866666666666
+So yeah, so UV lights can be used in both areas or, you know, areas where people are congregate after people have left, obviously, because of the risk of, of skin damage and radiation damage.	35.2455
+And and also for for objects, you know, like mask and surfaces, etcetera.	35.474666666666664
+And you see all the times in the labs to to kill bacteria and other viruses.	35.583999999999996
+So yeah, but I mean, that's that's as far as I can say.	35.661500000000004
+Thank you, Nestor, I'm just talking about kind of the N95.	35.717333333333336
+A couple questions on N95 mask a Dan Saltman says.	35.823166666666665
+Should we be using more N95 masks or surgical masks in the health care settings?	35.90466666666667
+And I'm thinking, Dan, you're getting it as the uptake of cases go up or just in General Dan, if you want to Maybe, unmute you did kind of further elicit at your question That would be great.	35.996
+Yeah, that I think.	36.185833333333335
+Thank you.	36.20366666666666
+Thank you, Joanna.	36.2145
+That was a follow up to the idea that it's ah, airborne.	36.233333333333334
+You know, if it's airborne and it's good persisting and we're protecting healthcare workers, maybe those surgical masks are not adequate.	36.294333333333334
+This is follow up to the, you know, the closed room the close rooms and the clinics where you can't really You can't really fix the ventilation very easily in a big building.	36.441833333333335
+Something like that.	36.608666666666664
+Think Dan, Nestor, what are your thoughts on that?	36.6605
+It's a tough question.	36.71216666666667
+I mean, we here, um, I could give you the a really life experience.	36.72983333333333
+At the beginning, we were we were not able to to use the N95 on everybody.	36.79333333333333
+So we we're limiting N95 to like, very high risk situations patients who you were going to perform like aerosol generating procedure.	36.87383333333333
+But at that time, it wasn't There was that much science saying that it was actually airborne all the time.	37.01233333333333
+Now, more recently, that we are a little bit better with the N95 existence or or the number of N95 we are using N95 every time we contact or we're going to do care for a patient with COVID or a high suspicion of COVID the suspicion that we're waiting for a result because, you know, he had a close contact or something.	37.100833333333334
+So, yes, So we're using more N95.	37.404833333333336
+Obviously, my concern And this is my personal opinion is that if We used to much When If we have another high peak, we're gonna run into trouble again with the N95.	37.44566666666666
+So it's sort of ah, if a different, difficult decision.	37.60633333333333
+So and then the other thing is that the everything showed that if if you you know, if you have adequate ventilation in the room, the procedure mask or the surgical mask confers decent protection.	37.65866666666667
+We have seen the data from other hospitals that that have published their percentage of healthcare workers that are infected, and interestingly enough, the percentage is relatively low, very similar to the community, even in the hype of the epidemic.	37.87116666666667
+And I'm talking about stories down in Boston, and York during the spring.	38.111999999999995
+So so obviously, although theoretically a surgical mask, it's not enough In the practical sense if you, as I was saying, if you layer that, you know, with with adequate ventilation, negative pressure room taking, you know, using the face shield in front of the of the surgical mask, limiting your contact with the patient.	38.199666666666666
+Oh, you know what?	38.51283333333333
+It is really necessary and not going out of the room many times during the day.	38.52466666666667
+All of those measures increase the incidence and and protect the coworkers.	38.61016666666667
+But always Well, yeah, if you wanna go into a room and you're gonna do a physical or something and you you suspect the patient has COVID I would recommend the N95 based on what we know now from from you know, different stories.	38.700833333333335
+Thanks.	38.917
+Nestor and Naomi Kistin ask, does the hospital have enough in N95's for staff?	38.92266666666667
+And I think your answer would be possibly now.	39.01116666666667
+But not if we keep using it every day for all the staff.	39.06316666666667
+Is that right?	39.113166666666665
+I don't know how how many we have, but I know we're using it just for COVID patients or suspicion of COVID patients.	39.17333333333333
+But no for the regular, you know, sprayer that comes into the ED.	39.275333333333336
+In that case, we just wear, you know, the regular procedure mask, and and we do question the patient, you know, if they have a fever, cough, shortness of breath, anosmia.	39.33616666666667
+But we're not using it all the time, because, yeah, we would run out of N95 in a few days if we use it in all patient contacts in all situations.	39.47983333333333
+Thank.	39.61866666666666
+Thanks Nestor, this is Leslie.	39.6245
+I just wanted to add that, um we worry a lot about the interactions with patients, and we need to remember also that we need to protect ourselves with other coworkers because that's actually a substantial force of healthcare spread.	39.6595
+So, um, when we're talking about it, make sure we're using protection Surgical mask, um, or something when we're around coworkers as well.	39.850833333333334
+Yeah, exactly.	40.02016666666667
+The Liberator.	40.033
+Yeah.	40.05050000000001
+Yeah.	40.0555
+And some.	40.059333333333335
+Some studies show that most most of the healthcare workers are infected by other coworkers in the cafeteria, and they remove the mask eat to talk, you know, in the break rooms more than with patient contact.	40.07383333333333
+Interestingly enough, so So it is something to remember all the time that the coworkers, especially when we remove our PPE and start talking It's when when you really are at risk.	40.25066666666667
+Excellent points.	40.479166666666664
+Thank you.	40.50266666666666
+Thank you, Leslie.	40.5145
+Thank you, Nestor.	40.528666666666666
+Um, Doctor Sosa.	40.5545
+Um, Doctor Tempus wanted to know if you were impressed with the Australian lab study that found COVID-19 virus can remain viable on glass and and money for 28 days.	40.588166666666666
+Right?	40.80266666666667
+I have to read the paper.	40.814499999999995
+And you saw the headline.	40.83166666666667
+I saw the headline 28 29 days.	40.86
+You know, they, uh, it's sort of different to the one before that.	40.92466666666667
+The top?	41.00083333333334
+More more, about several days.	41.006499999999996
+So Yeah, it's interesting.	41.0435
+I have to read and, you know, in order to give give my my opinion, But I think that the practical message is the same.	41.06883333333334
+I mean, you have to assume that it's going to be in a surface, that you have to clean a surface.	41.16116666666667
+If there has been a patient there, wash your hands as much as you can.	41.227333333333334
+I think the take home message.	41.2875
+But I'll, I'll be back for this question next week.	41.311166666666665
+And I'll look at the data of the paper specifically, but I think you know it.	41.36533333333333
+It's not going to change our behavior that much.	41.431333333333335
+It's just that we need to be careful with this virus if if if I don't think we need to say that this and say this in this group.	41.4615
+But I think that that's the take home message. Thank you, Nestor, and I'm wondering of Jeanne Boyle is available.	41.59166666666667
+Can Jeanne can you unmute you?	41.725
+Oh, well, if you if you want to be unmuted, please go ahead Jeanne.	41.92016666666667
+Yeah.	42.01716666666667
+Hi, Joanna.	42.034666666666666
+Hi there.	42.056000000000004
+It's so good to hear you.	42.079166666666666
+Um, do you want to mention about nursing facilities using UV light?	42.12833333333333
+Yeah.	42.22
+Um, I'm currently in Houston, working with Harris County, which, you know, has had a tremendous problem with trying to contain the COVID-19 spread in our very large metropolitan area.	42.231
+And so I go on behalf of the county into nursing facilities, detention centers, homeless centers and group homes to mitigate outbreaks.	42.4585
+And several of the very well functioning low infection of nursing facilities have been using, um, a room UV light of some sort when they do terminal cleaning.	42.61300000000001
+So when somebody moves from one part of the facility to another, they vacate their room and as part of the terminal cleaning at the end of it.	42.879333333333335
+Um, the UV light is placed in the room for a period of time.	43.034
+I don't know how long it is if it's overnight or exactly how long, but, um, you know, just by looking at the evidence, just sort of subjectively or objectively, there's it's really quite remarkable that those particular nursing facilities that are employing that type of device really have a low incidence of spread and low incidence of outbreak.	43.10933333333333
+Whoa.	43.53333333333333
+Well, thanks, Jamie.	43.54516666666667
+That's incredible.	43.568999999999996
+We need to look into that more.	43.589166666666664
+That's really impressive.	43.62766666666666
+So good to hear your voice.	43.65333333333333
+Yeah, you too.	43.68666666666666
+Back to you, Carla.	43.71333333333334
+Thanks, Joanna.	43.74916666666666
+I wanted to, um, ask Dan Saltman again to unmute himself again.	43.76016666666667
+He have a couple of questions that didn't make it onto his preregistration questions.	43.814
+Dan do you want to unmute yourself?	43.89149999999999
+Thank you.	43.92166666666667
+Uh, thank you.	43.93966666666667
+Uh, so one of them was a kind of more narrow question.	43.9615
+That was about the, uh it's about the presidential treatment.	44.013333333333335
+Um, you got Would you expect it that when you when somebody receives monoclonal antibodies, is a treatment for COVID That that would, uh, confer any long term immunity, uh, and stimulate the t's cellular immunity and long term immunity?	44.07983333333333
+So that was one part of that question.	44.401500000000006
+And the second part was, um just any comments on, uh, how one would judge the president's infectivity as in regards to COVID this is.	44.43233333333333
+I want to take it.	44.7445
+Okay, so the first year the monoclonal is I have read and this is mostly press release and and other comments or a couple of basic science papers with the monoclonal.	44.784
+The life of the monoclonal is a few weeks.	44.949333333333335
+So, yes, once you get an injection of monoclonal antibodies, it will circulate for for some time.	44.99366666666666
+So So it's going to confer some at least neutralizing antibodies or antibodies against the spike protein, monoclonals are directed against the spike protein for sometime they don't go away in a couple of days.	45.10216666666667
+Like like regular drug they actually linger for for a while.	45.30133333333333
+In one of the papers that I read, I remember, you know, see, in four weeks or one month of life, So you you have some some protection.	45.38216666666666
+I don't know what's gonna happen to the immune respond, to the his own immune response If you If you blunt the with monoclonal antibodies, I, um I don't know.	45.508833333333335
+I have to wait and see the large phase three trials with monoclonal and how the immune response We still produce antibodies to the virus or or this is some somehow blunted and also see the cell immunity.	45.69533333333333
+It is going to be blunted by the passive immunity.	45.92766666666667
+But I don't know, I I would just be speculating.	45.968666666666664
+And regarding the second question was about the treatment of the president about his ah, assessing the infectivity after he got that really potent kind of treatment.	46.035999999999994
+So that so that he he may not have mounted much of, ah, cellular immunity response at all.	46.26866666666667
+That was one for one side of that because because he had an antiviral, he got antibodies and got steroids.	46.37883333333333
+So it blunted his own his own native response as well.	46.50466666666667
+And that so then the follow up on that was, how would you, um, you know, in light of that kind of treatment, how would you assess his infectivity?	46.5775
+His You know, his his ability to pass on the virus, right?	46.720166666666664
+Okay.	46.79966666666667
+Yeah.	46.8045
+So I mean, we don't know for sure, but the best test will be to try to find virus that is cultural or viable in his respiratory secretions.	46.809
+So that would be the ideal situation.	46.969833333333334
+That's not something easy to do.	47.00083333333334
+But you would have to do Oh, not just a PCR.	47.026666666666664
+Because the PCR, as we have said many times in these are for, um, it's it's could be positive, uh, for for some weeks.	47.068999999999996
+So you you would have to really do some sensitive.	47.19866666666667
+They're they're two ways to do that.	47.2485
+One is to measure subgenomic RNA, which is sort of not just a regular RNA, but something that that indicates that there's active virus replication.	47.27183333333333
+And the other thing is to try to culture the virus.	47.41683333333334
+If you're not able to do that or you don't find, um subgenomic RNA you, you can safely assume that he's not infectious.	47.45483333333333
+If we go just by the rules of the of the CDC after 10 days off his initial diagnosis, granted that he's afebrile, you have to assume that he's not excreting virus.	47.59766666666667
+But the only way to be sure is by doing that.	47.765166666666666
+And there are a couple of, yeah, issues that as you alluded, number one is dexamethasone.	47.813
+Dexamethasone or corticosteroids in general tend to prolong viral shedding.	47.9
+So that's that's something against the president that in theory, because he got the dexamethasone, he may not be able to, um, to have a, you know, reduction of the of the viral shedding that soon.	47.98383333333334
+The second?	48.20133333333333
+Is that what we know?	48.21
+Epidemiological.	48.2355
+I mentioned these that if a patient has severe COVID, they would have longer viral shedding.	48.2535
+So if he really has severe COVID and was hospitalized or he was on, we assume that it is similar to the regular population that is hospitalized with severe Covid.	48.350833333333334
+He may have a more prolonged shedding, and in fact, in that situation, the CDC talks about 20 days a supposed to 10 days that you have to consider the person infectious just for the sake off greater safety.	48.524833333333326
+So So you know, it's hard to tell in reality.	48.7495
+But if they did subgenomic RNA or the PCR was negative and viral culture, and it's negative you can you can safely assume that's probably not not infectious on top of that he received the monoclonal.	48.80533333333334
+We should protect him from from having a lot of viral replication.	49.00266666666666
+Uh huh.	49.07283333333333
+So that's thank you.	49.08616666666667
+Thank you very much, Nestor.	49.1235
+I'm measuring that should go to maybe Marla.	49.14783333333333
+There a couple of questions about whether it makes sense anymore to take the temperature of everybody who's going into a clinic or a restaurant or whether that's been shown to actually prevent, um, infection.	49.184333333333335
+And I think is the question.	49.407000000000004
+I don't know, Marla, for a public health standpoint.	49.42383333333333
+If you if you think that that is something that should continue Yeah, I think it's similar to, um to what I said earlier about trying to sort of layer on some protections.	49.45399999999999
+Many people who are infected don't ever develop a fever.	49.662166666666664
+I've seen some numbers that say more than 50% of people never develop a fever.	49.72683333333334
+Um, especially if they're in that early symptomatic or pre-symptomatic phase.	49.83283333333333
+They're not gonna have a fever.	49.90016666666667
+Um, so you're not going to catch everybody by taking their temperature, But you might catch a couple of people.	49.92783333333333
+Um, so I think you're really trying to, You know, through the questions about exposure and symptoms and taking a temperature again, trying to sort of catch as many people as you can before they enter the space.	50.0285
+Um, probably just temperature checks alone are not gonna be very effective.	50.25933333333333
+Um, you really need to be asking the questions about symptoms and known exposures to confirm cases.	50.330333333333336
+I think there's also a behavioral thing.	50.491
+I mean, when you would you see somebody taking your temperature and asking you questions make you think twice about your symptoms.	50.52816666666667
+If you have nothing, you go into a building, you know, like free.	50.63533333333333
+We have seen.	50.68183333333333
+I mean, in some of the cases that we have investigated, people have been symptomatic and they go to work.	50.69133333333333
+And, you know, if if you don't stop it and ask if they're like Yeah, well, now that you ask me, yeah, you have a little bit of, you know, aches and pains.	50.77166666666667
+And I had a fever last night, but not not today.	50.8805
+So that's a type of situation that we face in reality with this patient.	50.92066666666666
+That then later, later are are detected with COVID, so I think it's important.	50.99983333333333
+It's a It's a behavioral thing that puts a stop on the door and make people think about their symptoms and remind them that we are in the midst of a pandemic.	51.074333333333335
+This is mostly I just want to get the other question.	51.227666666666664
+I would love to see people start asking that I don't think people are asking is have you been tested for COVID in the last few days?	51.27583333333334
+Cause the last month I've had, like, five people call me and say I need a COVID test because I just met with someone and they came in and said they were fine.	51.366
+And then we found out that had a COVID test yesterday that came back positive today.	51.5055
+So I think asking Have you had a COVID test?	51.56216666666667
+Um, is something else to consider asking a people come in the door.	51.608333333333334
+Thank you, Leslie.	51.706
+That's think it was really helpful.	51.717666666666666
+I just wanted to remind for everybody that the same link just went into the chat about 12 45 and I think she repeated it.	51.742
+So please fill that out if you would like CME and you have any feedback for us.	51.86816666666667
+Um, and also the slide sets from both Nestor and Leslie slides went into the chat as well.	51.93933333333334
+So you can have a link to the pdf of those slides	52.038333333333334
+I'm not sure I don't assure you answered this.	52.08583333333333
+Um Nestor, But Leslie he was asking Are you going to be more or less likely to develop your own antibodies if you get monocle antibody as a treatment?	52.124
+Well, I don't know.	52.294333333333334
+I don't know for sure.	52.32666666666667
+I mean, in theory could be less if if you actually let's let's assume you blunt the infection completely.	52.342333333333336
+With the monocle really successful, it may not now matter.	52.435500000000005
+Induce a natural immune response If if if if the monoclonal In reality, I don't think it's that, you know, 100%.	52.49433333333333
+You always have virus and you will have to give it really early, You know that.	52.635
+But yeah, in theory should hamper the immune response.	52.71583333333333
+But I haven't seen any hard data, so we have to We have to really wait.	52.76166666666666
+But it would.	52.816
+And the other thing that you can give you a false positive IgG.	52.841499999999996
+So if you measure IgG, you're measuring Maybe the levels of antibodies against the the protein.	52.90116666666667
+I mean the spike protein, so that's another thing.	53.00233333333333
+So So I think we need to study and see what type of immune reaction the patient that I've given monoclonal are the same as those that are given vaccine.	53.041666666666664
+What type of immune reaction they haven't will have.	53.1705
+We will have that information because that's one of the things that they're looking in the phase 3 of Regeneron on and Eli Lilly and also AstraZeneca, which are the three most advanced monoclonal companies right now.	53.20516666666666
+Along those lines, is there any recommendations When we do get a vaccine, if somebody has received monoclonal antibody, Do you need to wait a couple months before giving the vaccine?	53.44766666666667
+That I don't know.	53.532666666666664
+You don't You don't want to Give them together because you make blonde that the effect of the vaccine also.	53.59216666666667
+But I haven't seen any data, but we used it with the other vaccines.	53.66616666666666
+You don't want to use immunoglobulin, you know very close to the vaccine if if you can, if you can avoid it, and especially if you're going to do it, both you And if it's intramuscular, you have to give it at different places so it doesn't neutralize it.	53.710166666666666
+You think your Nestor.	53.96066666666666
+Sorry, I'm in a lecture.	53.99883333333333
+No problem.	54.06733333333333
+Okay, um, there's one that this is a real hard push, but I'm just going to say it anyway, because we don't really Well, I don't think we know, But there's a question from Claudia Guzman.	54.07483333333333
+COVID-19 is transmitted via fomite, droplet and airborne is that known, which is the number one way that people are getting it.	54.207166666666666
+Do we Do you know, do we know the answer to that question?	54.31816666666667
+Maybe Marley, you can also chime in.	54.400666666666666
+Yeah, the main way.	54.44566666666666
+It's still thought to be the respiratory droplets.	54.475166666666674
+So person to person, um, you know, obviously there is an opportunity for for my transmission, but we don't think that's the primary way that it's spread.	54.532333333333334
+Um, you know.	54.694833333333335
+And when CDC released the statement about aerosol transmission, they were very careful to say This doesn't appear to be the same kind of aerosol transmission that we see with TB or measles or varicella.	54.71183333333333
+Um, it's more of a limited aerosol transmission, So it's still thought that droplet at close person to person droplets spread is the primary way that the infections being transmitted.
+Thank you Marla, back to you Johana.	54.92366666666667
+Great.	55.234
+I'm just I'm wondering Karissa and Cecilia.	55.272333333333336
+I'm wondering if you have any comments related to any of the these testing questions or anything else.	55.33183333333333
+We just have a couple minutes left.	55.43983333333333
+And you, uh, wanted to see if you'd like to add anything to today's session.	55.46566666666667
+Uh, no, I don't have anything to add.	55.57066666666666
+Happy to have a quiet testing day?	55.602999999999994
+Um, maybe just the one thing is that there's not currently any FDA approved or an authorized test for the subgenomic RNA that Nestor was mentioning.	55.64866666666667
+Although there are some that are in various processes of development and submission.	55.845
+So, um, that may come to light at some point in the near future, or let's nothing near future some point in the future.	55.940333333333335
+Um, but for now, we'll rely on the CDC guidance for how to determine went to remove isolation.	56.06433333333334
+Thank you.	56.188833333333335
+Great.	56.2015
+Thank you so much.	56.21
+Karissa, we really appreciate your presence here.	56.22566666666667
+I just wanted to let everybody know we have about a minute left.	56.30050000000001
+We still have the weekly first responder.	56.3625
+Resiliency Echo.	56.405166666666666
+That's on Mondays at two o'clock mountain time.	56.43083333333333
+If you need information Maybe can't.	56.50833333333333
+You could put in the information about the first responder resiliency.	56.53916666666667
+ECHO If if Kent, our digital library in can't get that momentarily, it's always on our project ECHO, website and then the 1st and 3rd.	56.612833333333334
+I think it's the 1st and 3rd Thursdays from 8 to 9 Mountain time.	56.79316666666667
+We're still having the critical care ECHO with doctor Michelle Harkins.	56.84866666666667
+It's not this week, but it will be next week.	56.9095
+Carl, is that correct?	56.958666666666666
+Um, I think it's this week, isn't it?	56.99483333333333
+Was I I, uh it think it's 4 30.	57.02816666666667
+It's It's on the 15th.	57.11366666666667
+Yeah, and actually, it's going to be Donna upset.	57.13316666666666
+It's gonna be talking about COVID-19.	57.18333333333333
+And, um, that's in.	57.21383333333333
+I thinks I can't remember.	57.269666666666666
+I don't know, Elaine, if you have the title of her talk, it's COVID-19 and air pollution on air pollution.	57.300333333333334
+Okay, fantastic.	57.42216666666666
+So it seems like it's going to be kind of the intersection between climate change and COVID-19, so it should be really interesting.	57.442
+Well, thank you, everybody for participating.	57.58383333333334
+Another great session and we'll see you next week.	57.63216666666666
+	57.63216666666666

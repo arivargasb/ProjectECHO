@@ -1,0 +1,107 @@
+thing like I did last week.
+So it's going to be pretty, pretty, mostly clinical and epidemiological.
+We have a lot of things to cover, but these are some of the main publication.
+So the first thing was the data published in The New England Journal about the Moderna vaccine in older patients that, you know influenza and other vaccines are not as influenza vaccines and other vaccines are usually not as effective in older groups, so it's important to take a look at how the new vaccines that we are developing against COVID-19 work in older folks.
+This publication by Moderna was was welcomed.
+They actually look at the data for patients 56 and 70 and also over 71.
+And they were testing the two doses in their two protocols, the 25 microgram and a 100 microgram.
+And I can tell you right right off the bat that they're gonna use probably the old the higher dose for elderly patients.
+So the 100 microgram dose and we're going to show some of the results today.
+This is the basically the protocol.
+They have four groups.
+10 in each group, 10 patients in each group.
+This is an early early study, 20 in that group of 56 to 70 and 20 in the more than than 71.
+And they were pretty balanced regarding gender and ethnicity.
+But mostly, mostly, were actually whites are not too many minorities represented in this study, which is an issue with some of these vaccine trials.
+The adverse event.
+It's something that we're used to see.
+The first vaccination, which is the column on the left, doesn't produce that much in the way of adverse events.
+Some local expected local discomfort, but the second dose is definitely much more reactive.
+Janick and this is across the board, younger and older people.
+But it's it's also present in the elderly, so it's important.
+And I think all of the vaccines that we have seen are associated with significant react allergenicity, which is bad for the patient.
+But it's good if you take it in into the if you interpret these as an immunological reaction to the vaccine, so it's not an inert material.
+It's actually something that you get some low grade fever, fatigue, soreness in the area of injection, but Hopefully, this will correlate with immune response and talking about immune response that one of the most important markers are the neutralizing antibodies.
+And this.
+We have the 2 25 doses in the 50 to 70 more than 71 the 100 mg, and you can see that the basically the levels of neutralizing antibody, especially the high dose the 100 mg, produces the same levels of antibody as younger patient.
+This is the column of 18 to 55 from the previous published study, so you can see that the levels of antibodies and the neutralizing antibodies was very similar when you use the 100 microgram in in any age, essentially 56 to 70 and 71.
+So that was good news that this vaccine seems to be immunogenic even in in older in older patients.
+You send these FRNT, which is one of the assays when you use with the real virus PRNT you can see there's a slight decrease in the neutralizing antibody between the younger group 56 to 70 and more than 71 but still pretty decent levels which are comparable with with what we've seen in the younger population.
+So So that's That's the good news about these Moderna vaccine that it seems to be immunogenic for elderly folks.
+And the same thing happens with the T-cell response, the cellular immunity.
+Definitely the low dose didn't mount almost any response.
+This is the T CD4 Th1 response.
+But you can see that there's an important cell mediated immunity response in the higher dose for both Group 56 to 70 and more than 71 so that these results are the one that indicate that we're going to probably use the high dose or or the high goes where we use Moderna, especially for early patients.
+And no, no, Th2 two, which is the the the one that we don't want the type of response that may be associated with pulmonary inflammation.
+It's basically not present with any of the doses in any of the age group, so that was also good news.
+And and there was one publication on hydroxychloroquine.
+I think the only the only area that is still somewhat debatable on hydroxychloroquine is we can use it as pre-exposure prophylaxis.
+As you know it's been discarded as a treatment for moderate, mild and severe COVID.
+But there's still some some investigator, which think that if you use it early enough, you may have an effect.
+But these are double-blind placebo randomized study of hydroxychloroquine in actually healthcare workers.
+They were taking these hydroxychloroquine before they they were exposed to COVID.
+And when they look at those who were taking and not taking the hydroxychloroquine, no difference.
+It's another another negative study for for hydroxychloroquine, in this case as pre-exposure prophylaxis, and we have already post-prophylaxis and a side step treatment.
+So hydroxychloroquine so far, no, no good news from from that. 
+An article that was actually pushed at the beginning of the of the pandemic assess a possible treatment based on the in vitro study in Vero cells.
+But there's definitely no no clinical efficacy in these clinical trial.
+Another, another topic that we have been discussing is the long COVID, and I found this recent paper published in Clinical Microbiology and Infection.
+It's actually a pretty well known study on follow up of patient with no critical COVID because, as you know, there has been the discussion that some of this long COVID symptoms are may be related to the fact that the patient is in ICU, intubated, inmobile.
+So they when they leave the hospital, they're weak, that they still have some long issues.
+They have a lot of fatigue, and people have a speculated that that this may be partly just due to the, you know, the the critical face of the disease.
+So these authors actually look at the non-critical COVID patients, and they follow them for 60 days.
+And they did, like, standardized questionnaires on these patients and register the symptomatology.
+And they actually initially enroll 293 patients.
+They ended up because some patients were not known included 101 with mild to moderate COVID and 29 with severe COVID.
+But non-critical, not ICU COVID. 
+And the results, what we suspected that a high, very high percentage of patient on day 30 and a 60 almost almost two third of the patients, they have persistent symptoms.
+So more than one or more symptoms in basically two third and this persisted all the way out to the 60 day follow up.
+So it's a pretty, you know, prevalent issue.
+Some of the most frequent symptoms was the loss of sense off smell and taste.
+The anosmia and ageusia we have at the onset 59% hearted on day 30 28 they 60 still, like one quarter of the patient, have these these anosmia, or loss of taste.
+Also astenia, which was not reported in the initial information with 50% in day 30 and 40% on day 60. 
+And dyspnea, you can see the 36% on day 30 and 30%.
+So so a lot of these symptoms seems to persist beyond day 30 and on all the way to two months after they left the hospital.
+The other interesting finding on this trial was to to see if there were factors associated with symptoms persistence, and they found first the younger age group, a relatively younger age group 40 to 60 were more likely to have this symptoms if the patient was hospitalized, obviously, and if there were, there was evidence of a normal pulmonary auscultation, which are all markers or severe disease.
+So the more severe disease the higher the likelihood and the issue was kind of interesting.
+It was not the older or the younger, but actually like like the middle of the of the group. 
+And this is this is sort of the same result put graphically, so to the right is the odds-ratio of having persistent symptoms.
+So if you receive oxygen, if you have a normal auscultation if you're hospitalized, which is essentially, in my view, the same thing you had a higher odds-ratio of having symptoms.
+And if you were in this age from 40 to 60 also was to the right of the curve.
+So a higher probability of having symptoms.
+So, you know, this is more information regarding the lung COVID which I found interesting.
+This this was age 30 age 60 very similar results.
+The other important trial that was published over the last week was the final report of the Remdesivir.
+And I'm gonna I'm not going to go over the you know, all over the graph and things that the result of this final report was very similar to the original bigger publication, the preliminary report.
+So the end of the story is that that Remdesivir shorten the recovery patients received Remdesivir across the board and this tudy had 10 days.
+They recover as supposed to 15 days of the placebo arms.
+So five day reduction in the recovery, which gives you a rate of recovery of 30% more, 1.29 basically, these are the confidence intervals and this was a statistically significant.
+Unfortunately, the mortality the Kaplan-Meier mortality report A day 15 and 8 29 there wasn't America.
+We better survival with Remdesivir 6.7 versus 11.9 a day, 15 11.4 versus 15 in the placebo warm.
+But both of these differences were know statistically significant.
+So because the house or racial cross one barely course one.
+So I mean, but But you can see that definitely the mortality was less in the Remdesivir, but it was not statistically significant.
+This was a pretty large trial of thousands, you know, more than 1000 patients or so that was the final report of Remdesivir.
+You know, a positive finding, but not know what we expect that especially no impact in mortality, at least in this trial.
+And again, patients with that were receiving oxygen, but not in ECMO or mechanical ventilation, where those who benefit the most was the larger group and was also the group that received more benefit, those who were at the beginning of the disease or not required oxygen, no significant changes.
+And and those at the end of the spectrum also had less of an impact.
+So so the drug should be used presumably early, but in post patient that require oxygen.
+That was that sort of the conclusion of the of the final report.
+And I'm not.
+I'm not going to go into this so I'm going to skip the graph for the sake of time.
+But we discussed that with the original publication and finally one a couple of epidemiological publication.
+First of all, this was interesting.
+Interesting publication in and the MMWR.
+From Arizona, and I think I think the results are really compelling of how you can actually flatten the curve if you implement some changes and not necessarily complete lockdown, which is one of the things that is being discussed.
+And so this is the the number of daily cases in Arizona and you can see.
+After they lifted the stay at home and and the summer came, you can see how traumatic was the increase in cases in our neighboring state, Arizona.
+But then they slowly started to implement measures.
+They limit the public event closure of bars, movie theaters, gyms, movie theaters,  something similar to what we have done here.
+They also mandated the use of mask and enforce the use of mask and you can see how dramatic the decrease in the number of cases occur at the end of the summer.
+So it was a very steep, very high.
+But then when when all these measures that are here listed here were implemented, you can see the decrease in the cases or it is possible to actually flatten significantly the curve with public health measures that I think that's good news for us.
+And finally the CDC again placed the transmission by airborne in their webpage.
+It was remove.
+Originally, it was placed for like a day or so hours, and then it was removed.
+Then they edited.
+And then they finally made a final statement on these that the cancelled times we spread by airborne transmission and how COVID spreads the CDC webpage.

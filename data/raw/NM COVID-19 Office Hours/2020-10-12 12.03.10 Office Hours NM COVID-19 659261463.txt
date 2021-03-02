@@ -1,0 +1,626 @@
+thing like I did last week.
+So it's going to be pretty, pretty, mostly clinical and epidemiological.
+We have a lot of things to cover, but these are some of the main publication.
+So the first thing was the data published in The New England Journal about the Moderna vaccine in older patients that, you know influenza and other vaccines are not as influenza vaccines and other vaccines are usually not as effective in older groups, so it's important to take a look at how the new vaccines that we are developing against COVID-19 work in older folks.
+This publication by Moderna was was welcomed.
+They actually look at the data for patients 56 and 70 and also over 71.
+And they were testing the two doses in their two protocols, the 25 microgram and a 100 microgram.
+And I can tell you right right off the bat that they're gonna use probably the old the higher dose for elderly patients.
+So the 100 microgram dose and we're going to show some of the results today.
+This is the basically the protocol.
+They have four groups.
+10 in each group, 10 patients in each group.
+This is an early early study, 20 in that group of 56 to 70 and 20 in the more than than 71.
+And they were pretty balanced regarding gender and ethnicity.
+But mostly, mostly, were actually whites are not too many minorities represented in this study, which is an issue with some of these vaccine trials.
+The adverse event.
+It's something that we're used to see.
+The first vaccination, which is the column on the left, doesn't produce that much in the way of adverse events.
+Some local expected local discomfort, but the second dose is definitely much more reactive.
+Janick and this is across the board, younger and older people.
+But it's it's also present in the elderly, so it's important.
+And I think all of the vaccines that we have seen are associated with significant react allergenicity, which is bad for the patient.
+But it's good if you take it in into the if you interpret these as an immunological reaction to the vaccine, so it's not an inert material.
+It's actually something that you get some low grade fever, fatigue, soreness in the area of injection, but Hopefully, this will correlate with immune response and talking about immune response that one of the most important markers are the neutralizing antibodies.
+And this.
+We have the 2 25 doses in the 50 to 70 more than 71 the 100 mg, and you can see that the basically the levels of neutralizing antibody, especially the high dose the 100 mg, produces the same levels of antibody as younger patient.
+This is the column of 18 to 55 from the previous published study, so you can see that the levels of antibodies and the neutralizing antibodies was very similar when you use the 100 microgram in in any age, essentially 56 to 70 and 71.
+So that was good news that this vaccine seems to be immunogenic even in in older in older patients.
+You send these FRNT, which is one of the assays when you use with the real virus PRNT you can see there's a slight decrease in the neutralizing antibody between the younger group 56 to 70 and more than 71 but still pretty decent levels which are comparable with with what we've seen in the younger population.
+So So that's That's the good news about these Moderna vaccine that it seems to be immunogenic for elderly folks.
+And the same thing happens with the T-cell response, the cellular immunity.
+Definitely the low dose didn't mount almost any response.
+This is the T CD4 Th1 response.
+But you can see that there's an important cell mediated immunity response in the higher dose for both Group 56 to 70 and more than 71 so that these results are the one that indicate that we're going to probably use the high dose or or the high goes where we use Moderna, especially for early patients.
+And no, no, Th2 two, which is the the the one that we don't want the type of response that may be associated with pulmonary inflammation.
+It's basically not present with any of the doses in any of the age group, so that was also good news.
+And and there was one publication on hydroxychloroquine.
+I think the only the only area that is still somewhat debatable on hydroxychloroquine is we can use it as pre-exposure prophylaxis.
+As you know it's been discarded as a treatment for moderate, mild and severe COVID.
+But there's still some some investigator, which think that if you use it early enough, you may have an effect.
+But these are double-blind placebo randomized study of hydroxychloroquine in actually healthcare workers.
+They were taking these hydroxychloroquine before they they were exposed to COVID.
+And when they look at those who were taking and not taking the hydroxychloroquine, no difference.
+It's another another negative study for for hydroxychloroquine, in this case as pre-exposure prophylaxis, and we have already post-prophylaxis and a side step treatment.
+So hydroxychloroquine so far, no, no good news from from that. 
+An article that was actually pushed at the beginning of the of the pandemic assess a possible treatment based on the in vitro study in Vero cells.
+But there's definitely no no clinical efficacy in these clinical trial.
+Another, another topic that we have been discussing is the long COVID, and I found this recent paper published in Clinical Microbiology and Infection.
+It's actually a pretty well known study on follow up of patient with no critical COVID because, as you know, there has been the discussion that some of this long COVID symptoms are may be related to the fact that the patient is in ICU, intubated, inmobile.
+So they when they leave the hospital, they're weak, that they still have some long issues.
+They have a lot of fatigue, and people have a speculated that that this may be partly just due to the, you know, the the critical face of the disease.
+So these authors actually look at the non-critical COVID patients, and they follow them for 60 days.
+And they did, like, standardized questionnaires on these patients and register the symptomatology.
+And they actually initially enroll 293 patients.
+They ended up because some patients were not known included 101 with mild to moderate COVID and 29 with severe COVID.
+But non-critical, not ICU COVID. 
+And the results, what we suspected that a high, very high percentage of patient on day 30 and a 60 almost almost two third of the patients, they have persistent symptoms.
+So more than one or more symptoms in basically two third and this persisted all the way out to the 60 day follow up.
+So it's a pretty, you know, prevalent issue.
+Some of the most frequent symptoms was the loss of sense off smell and taste.
+The anosmia and ageusia we have at the onset 59% hearted on day 30 28 they 60 still, like one quarter of the patient, have these these anosmia, or loss of taste.
+Also astenia, which was not reported in the initial information with 50% in day 30 and 40% on day 60. 
+And dyspnea, you can see the 36% on day 30 and 30%.
+So so a lot of these symptoms seems to persist beyond day 30 and on all the way to two months after they left the hospital.
+The other interesting finding on this trial was to to see if there were factors associated with symptoms persistence, and they found first the younger age group, a relatively younger age group 40 to 60 were more likely to have this symptoms if the patient was hospitalized, obviously, and if there were, there was evidence of a normal pulmonary auscultation, which are all markers or severe disease.
+So the more severe disease the higher the likelihood and the issue was kind of interesting.
+It was not the older or the younger, but actually like like the middle of the of the group. 
+And this is this is sort of the same result put graphically, so to the right is the odds-ratio of having persistent symptoms.
+So if you receive oxygen, if you have a normal auscultation if you're hospitalized, which is essentially, in my view, the same thing you had a higher odds-ratio of having symptoms.
+And if you were in this age from 40 to 60 also was to the right of the curve.
+So a higher probability of having symptoms.
+So, you know, this is more information regarding the lung COVID which I found interesting.
+This this was age 30 age 60 very similar results.
+The other important trial that was published over the last week was the final report of the Remdesivir.
+And I'm gonna I'm not going to go over the you know, all over the graph and things that the result of this final report was very similar to the original bigger publication, the preliminary report.
+So the end of the story is that that Remdesivir shorten the recovery patients received Remdesivir across the board and this study had 10 days.
+They recover as supposed to 15 days of the placebo arms.
+So five day reduction in the recovery, which gives you a rate of recovery of 30% more, 1.29 basically, these are the confidence intervals and this was a statistically significant.
+Unfortunately, the mortality the Kaplan-Meier mortality report A day 15 and 8 29 there wasn't America.
+We better survival with Remdesivir 6.7 versus 11.9 a day, 15 11.4 versus 15 in the placebo warm.
+But both of these differences were know statistically significant.
+So because the house or racial cross one barely course one.
+So I mean, but But you can see that definitely the mortality was less in the Remdesivir, but it was not statistically significant.
+This was a pretty large trial of thousands, you know, more than 1000 patients or so that was the final report of Remdesivir.
+You know, a positive finding, but not know what we expect that especially no impact in mortality, at least in this trial.
+And again, patients with that were receiving oxygen, but not in ECMO or mechanical ventilation, where those who benefit the most was the larger group and was also the group that received more benefit, those who were at the beginning of the disease or not required oxygen, no significant changes.
+And and those at the end of the spectrum also had less of an impact.
+So so the drug should be used presumably early, but in post patient that require oxygen.
+That was that sort of the conclusion of the of the final report.
+And I'm not.
+I'm not going to go into this so I'm going to skip the graph for the sake of time.
+But we discussed that with the original publication and finally one a couple of epidemiological publication.
+First of all, this was interesting.
+Interesting publication in and the MMWR.
+From Arizona, and I think I think the results are really compelling of how you can actually flatten the curve if you implement some changes and not necessarily complete lockdown, which is one of the things that is being discussed.
+And so this is the the number of daily cases in Arizona and you can see.
+After they lifted the stay at home and and the summer came, you can see how traumatic was the increase in cases in our neighboring state, Arizona.
+But then they slowly started to implement measures.
+They limit the public event closure of bars, movie theaters, gyms, movie theaters,  something similar to what we have done here.
+They also mandated the use of mask and enforce the use of mask and you can see how dramatic the decrease in the number of cases occur at the end of the summer.
+So it was a very steep, very high.
+But then when when all these measures that are here listed here were implemented, you can see the decrease in the cases or it is possible to actually flatten significantly the curve with public health measures that I think that's good news for us.
+And finally the CDC again placed the transmission by airborne in their webpage.
+It was remove.
+Originally, it was placed for like a day or so hours, and then it was removed.
+Then they edited.
+And then they finally made a final statement on these that the cancelled times we spread by airborne transmission and how COVID spreads the CDC webpage.
+I think that's the last one.
+Thank you.
+Yeah.
+Johana
+Yeah.
+Oh, very interesting.
+There.
+Oh, thanks.
+Thanks, Nestor.
+Always.
+So.
+I learned so much so quickly with with your power points.
+Thank you so much.
+And I wanted to introduce Doctor Leslie Hayes.
+Leslie has a power point as well.
+And we're going to take questions as you have questions from doctor Sosa's Power Point, please put them in the chat any time on and we will get to that.
+And after after we introduce our hub team members.
+So Leslie Hayes and I'm struggling to get this up one second.
+Take your time.
+I thought I might have to have words with Dr. Sosa So when you presented a slide show that showed, um, for us study that showed 56 to 70 is elderly.
+But you redeemed yourself when you called 40 to 60 young with the next study, So Ah, boy, I don't know why this is just not popping up for me here.
+Oh, my God.
+Elena, do you have it?
+Because I just I can't get it to come up today.
+I don't know why.
+What's going on here?
+So yes, I do.
+Okay.
+Ah wait found it.
+Can you see it?
+Can you guys see my slides or No.
+Yes.
+Okay.
+Great
+Yes.
+Okay.
+Um, when I was gonna present, I thought this was a pretty cool article.
+It's from JAMA.
+And it was on the science of persuasion.
+How you can, um I guess there's actually been a lot of studies on How do you persuade people to do things and, um, opportune lessons for COVID-19 prevention.
+So they talked about the five habit promoting strategies which, um, if you want somebody to develop a habit, get exercising or, um, eating more vegetables or wearing a mask.
+They said there's five things to do.
+You want to make it easy to start and easy to repeat.
+You wanna make it rewarding to repeat, you want to tie the behavior to an existing habit.
+And I know I do this with people all the time suggesting they take pills when they first like that, and talk about behaviors that conflict with existing habits and provide alternative behaviors and provide specific descriptions of desire behaviors and they discussed for, um, the first one of making the behavior easy to start.
+Repeat, making handwashing stations and hand sanitizer available everywhere really makes a difference on how often people wash their hands, and you know it's obvious.
+But, um, often we don't have hand sanitizer readily available, so making it readily available.
+Then they talk about leaving mask right next to the front door.
+So they're easy to grab.
+You leave the house, and then I've certainly seen this Most places I go in public anywhere where they have marks on the floor demonstrating 6 ft apart, and that just makes it so easy to stay 6 ft from.
+Other people also talked about communication and clear, consistent messaging.
+And they said, This is actually most important at the local level, and I feel like we've gotten pretty good messaging, clear, consistent messaging on a state level, which made me feel good about it.
+One thing they talked about is....
+The media has really been guilty about this so many pictures of, uh, people on the beaches or, um, at Sturgis or wherever, not doing what they're supposed to, because when you highlight the bad behavior.
+It makes people think it's more prevalent than it actually is.
+And it tends to make people less willing to, um, actually do what you want them to do.
+So you really want to be highlighting people doing what they're supposed to. 
+And then the other one that, unfortunately, the medical field, that a really bad job that initially is conceding uncertainty.
+And we're interested the TV for medical people, you know, we just said there was no evidence for wearing it in public, and I still to this day I have people posting on Facebook that, you know, Doctor Fauci or the surgeon general said not to wear masks and, you know, it's from back in March.
+But people absolutely believe that message from back in March.
+So rather than saying, you know, this is what is true, we want to say, based on what we know today, it's sort of conceived we'd still don't know.
+We're still learning lessons about this. 
+And then Scientific American and, um, publish something this week, COVID is actually the third leading cause of death in the US for this year.
+It became the third leading cause of death March 4th and it was actually the first leading cause of death from April 5th to May 3rd.
+And it's been the third leading cause of death with about the year and then indirect effects on Children in New York state.
+This one was actually really quite heartbreaking.
+Um, the United Hospital Fund found that 4200 Children in New York had lost a parent to COVID-19 this year.
+About 950 were Children of single parents and say, Well, they lost their only parent.
+Um oh, it was one in 1000 Children in New York state lost a parent to COVID-19, um, one in 600 black Children, one in 700 Hispanic Children in one of 1500 white Children, Um, 57% were in Queens, Brooklyn or the Bronx, which were the hardest hit areas.
+That was really that was fairly heartbreaking.
+And then they also found that 325,000 Children were pushed into poverty or near poverty in New York, which was roughly 8% of Children in New York who had not been poverty before COVID-19 started were now in poverty.
+And they estimated it was gonna cost anywhere from 550 to 800 million just to support the basic needs of these Children and household severe new, newly newly in or near poverty over the next year.
+And they estimate that 40% of low income workers lost their jobs throughout the United States.
+And those, of course, are the people who are the least able to absorb financial hit like that.
+And I decided not to go into this.
+This is fairly similar to the one I presented from Minnesota Department of Health last week, but there was a COVID-19 response toolkit it from the public elementary schools on how to deal with Children who are symptomatic or have a positive COVID in their family or an exposure, and then also updating from American Academy of Pediatrics on COVID-19 testing guidance.
+And like I said, they're fairly similar to what we've already talked about.
+But it was nice to have something from local, and the last was just some articles that I thought were really good.
+I didn't necessarily think it was worth summarizing, but I thought they were worth either reading yourself or passing along to that difficult uncle on Facebook.
+um COVID-19 myth busting by Robin.
+I don't know how to pronounce it.
+Schoenthaler I think she posts a lot on Facebook.
+She's worth following on Facebook just for her post, but she wrote an article for Medium on the various myths around COVID, and this was quite good.
+Um, UCSF had a grand rounds on October 6th.
+Um, and they discuss President Trump's COVID-19 diagnosis and just sort of what it meant from a medical standpoint.
+What you could tell what, um, what we know about the medications that were you to treat him.
+It's veal on YouTube and then, um actually, um, the grand rounds is an hour and a half.
+I didn't have time to watch it, but Julie Thompson MD is on Facebook, and she summarized it under personal Facebook page.
+She's from Oakland.
+There's multiple Julie Thompson's, but, um, her summary was really excellent, and I think it's worth looking at if you're on Facebook and then Emily Auster's schools aren't super spreaders from the Atlantic.
+I'm still waiting to see definitive medical articles on this, but this was quite a good summary.
+And then Elizabeth Ralph here, how the pandemic finally ends was also an article that was definitely worth reading.
+And that was everything I had.
+Thank you.
+Thank you so much.
+Leslie.
+It is.
+Ah, so great to get your take on what's important out there in the ambulatory world.
+It's It's really great to get both both these, uh, both yours and Nestor's inputs I'd like to introduce, um Marla  just to say hi.
+Marla does not have a any update today.
+But, mother, if you can just say how most everyone knows who you are real quick.
+Marlys everyone.
+Senior epidemiologists at the Department of Health.
+Thanks, Marla.
+And then Karissa Culbreath.
+Um, could you just let everybody know who you are from TriCor scientists.
+I am.
+I'm I'm one of the medical director for infectious disease agnostics here, a TriCor.
+And also my colleague, Doctor Cecilia Thompson, is also here on the call today.
+Thank you so much, Karissa.
+And then, um my colleague at Project ECHO.
+Uh, Karla Thornton is one of the senior associate Directors Karla.
+Um are you here?
+Yeah, I'm here.
+Hi, everyone.
+Afternoon.
+Carla Thornton here Division of Infectious Diseases.
+Is that, um great.
+Karla, Um Karla, do you wanna start with some questions?
+Yeah.
+Thank you to another.
+Quite a few questions on the chat.
+Um, well, to start with a doctor, Sybil had a question and those with prolonged symptoms.
+Does that correlate with prolonged viral shedding and infectivity?
+Think Nestor, from your initial.
+Yeah no, I haven't seen that correlation.
+Uh, I know that severe patient who have severe acute Covid meaning patients were in the ICU or hospitalized.
+They tend to have a longer viral shedding than those who have milder asymptomatic disease.
+But I haven't seen the correlation between long COVID the invasion recover and viral shedding.
+And I think that's that's one of the questions.
+If this is a viral phenomenon or any immune phenomenon and we still don't know, I know they're looking into that actively, they're they're they're having this cohort of patients in which they're doing immunological studies to see what type of immune reaction they have.
+They trying to look for the virus in different issues to see if there's any persistent in the C and s or somewhere else.
+But I haven't seen anything published yet.
+Thank you, Nestor.
+Um, I think Marla.
+This is probably for you, because they're they're a few preregistration questions.
+And then there's one in the chat about, you know, at least in New Mexico, this larger increase the number of cases that that we've seen in the last couple of weeks, if there's at least what what you guys were thinking about, what the explanation of that, uh, increase. 
+You know, right now, we think that there's multiple factors.
+We kind of had many things change all at the same time.
+So we have the long Labor Day holiday, and we know from our case interviews that there were a lot of people who traveled, had people from out of state travel to visit them.
+Lots of family get togethers, Um, and at the same time, you know that very same weekend we liberalized indoor dining.
+Indoor dining was open again.
+Um, the number of people that you were allowed to have in an indoor space, um, increased things were, you know, looking good heading into that weekend.
+Um, you know, some schools returned to in person learning, and, um, there were multiple other kind of recreational activities that were given the green light to open back up.
+So you suddenly had, um, this long holiday weekend where you had travel.
+You have family get togethers, events, and you also had people spending more time in.
+You know, indoor spaces like restaurants, breweries, bars, um, skating rings, pumpkin patches, this, you know, sort of etcetera.
+There were a lot of things that were kind of given the green light at the same time.
+And so we think it's really a cumulative effect of all of those things, not any one thing.
+But people definitely have reported increasing group activities and travel, including dining.
+Thank you Marla, and there was another question just about whether how much you can, how much you can explain by the increase in testing cause do you think that the increased in testing has added to the numbers significantly or not?
+You know, the testing numbers right now really are sort of back up to where we have been through the spring and early part of the summer.
+We had a drop off and testing, you know, kind of late July and August, but where we are now, it's kind of where we had been through the late spring and early summer, so there's not been a significant increase in in testing throughout the state.
+Thank you very much.
+A couple other questions.
+Um, Claudia Guzman said If COVID-19 is airborne, then we'd have to improve the of insulation in many or most places to create negative pressure.
+How's this being addressed?
+Nestor, You have any ideas?
+No.
+I mean, I can comment on what the at least a hypothetical or scientific data says, You know, ideally, yeah, if you're gonna be in a closed space, ideally that that room should have negative pressure.
+But obviously that's not feasible in most, you know, stores, you know, supermarkets, etcetera.
+So, you know, to have good ventilation if possible, to stop it like an air current.
+In some places, opening the windows and the doors.
+If it's possible with the weather that that should help.
+Also conducting activities outdoors supposed to indoor.
+And we've been doing that with restaurants and other things with, like curse.
+I peak off, etcetera, so you know, everything helps a little bit.
+I think it's ah, it's a matter off improving, and if you're gonna be in a closed place, Hopefully there won't be that many people decreasing the chances of running into somebody with COVID.
+So so, no crowding, indoor spaces is also critical.
+So there.
+I think there are many, many factors.
+I wanted to add something to the comment Before tomorrow, we are seeing the number of places in the hospital also pick up.
+So I agree.
+It's not just the testing thing, is definitely really.
+We're starting to see patients in the ICU.
+Today I have consented a couple of patients in the in the active trial, which is, you know, you usually get once a week.
+We have three or four today between doctor Harkins and I.
+So So we're seeing the numbers go up and the hospitalization go up.
+Definitely it's not It's not our imagination.
+Thank you Nestor and Barbara Oakland just put in the chat.
+What about people who are working inpatient care and clinics?
+Where there's you can't open the window, there's no you know, there's no clear way to do that.
+It's a big question.
+My clinic is actually going to get an environmental engineer to come in and see how we can improve ventilations.
+So that is, I mean, it's not cheap, but that is one possible suggestion.
+Is, um, environmental engineers can come in and sort of evaluate for that, right?
+Exactly.
+Improving a meaning increasing the air changes in the room helps, obviously, And that's what we do in the hospital.
+If you cannot, you cannot actually open the windows then then having ah more efficient system that will will get free or fresh air and frequent changes It's it's helpful, are supposed to having a completely circulated area in a closed environment.
+I think, you know certain there's actually one more related question.
+Maybe it's answered.
+Jeff Miller asked any thoughts on data on whether HEPA air filters may help in outpatient settings in exam rooms and things like that.
+This is Marla.
+The PA did put out, um, sort of a statement with some guidance about using indoor HEPA filters and portable air filtration systems in enclosed environments, um, as to augment really kind of bringing in fresh air and that if you're not able to bring in fresh air, that this would sort of be better than nothing.
+So they do have some information about the use of HEPA filters indoors, but really, you know, they say it's to augment, fresh air and many of the other engineering and administrative measures you have in place for protection.
+I think you know, that's one thing that's important to remember is there's no sort of one thing that is going to protect everyone from COVID transmission.
+It's really looking at, you know, the different situations and the different indoor environments and trying to layer on that protection as much as possible.
+So you know people who are masked, Um, if you're in a healthcare setting wearing appropriate PPE, increasing air exchangees bringing in fresh air, if you can, using portable filtration if you can, screening people before they come into a space for signs and symptoms, you know good handwashing, good surface disinfection.
+So you're kind of trying to layer on all of these measures to, you know, create some protection in those environments.
+But, you know, unfortunately, there's really no one thing which is going to protect everyone all the time or is really available to everyone in different settings.
+Thank you Marla, there's a question Jen Blanchard, can you unmute yourself, a question that you put into the chat.
+If not, I can ask it for you.
+I don't I do not see her on video.
+Um, Jen Blanchard asked a question she wanted to clarify, but what?
+She thinks Doctor Spray said last Thursday last Thursday that young people less than 30.
+If their chief complaint is primarily in nausea without your eye symptoms, do you go ahead and obtain a COVID test, can anyone speak to that?
+Maybe Marla, you can.
+I don't know.
+I didn't hear exactly what doctors Grace said during that meeting.
+But anyone who has symptoms, we would encourage them to be tested.
+We've certainly talked to young people.
+And, um, a lot of younger people who say, you know, they they thought it was allergies, right?
+So they had some very mild, maybe nasal congestion.
+No other symptoms, really.
+And then when they did get tested, were positives.
+So I think someone has symptoms, you know, even some of the more unusual symptoms, like GI eye symptoms without another explanation.
+Um, they should be tested.
+Yeah.
+Thank you.
+I think that's what her really question was.
+It sounds like people just have nausea alone, that whether or not they should be tested, But it sounds like, um, pretty much anybody should be tested with with any sort of symptoms at this point.
+So back to your Jen
+Uh, thanks, Karla.
+Uh huh.
+Um, I just wanted to, uh, see, maybe if Doctor McCabe moving about McCabe is on the call.
+If she maybe wants to ask her question about the CDC and kids and face masks. 
+Yes uh, hello, Everyone high.
+Uh, the CDC guideline says Children less than two should not be wearing face masks.
+Some pediatricians are saying Children less than five should not be wearing a face mask.
+I'm just wondering, what are we What are we How do we guide our clients on this?
+Here doctor Hayes.
+I'm just going to comment that I have seen a lot of 2 to 5 year olds in clinic recently, and not one has had trouble wearing that face mask correctly.
+So, um, it definitely can be done.
+I don't know if I wasn't setting like a day care how easy it would be to keep it on all day, but I will tell you for a medical setting, it has not been an issue at all.
+Thanks doctor Hayes, Nestor or Marla.
+Any thoughts on that?
+No, I don't have any anything.
+I mean, I have I have an eight year old at home and she wears the mask.
+But I know when she's in school, she sometimes just put it below the nose, and I have tried to tell her not to do that, but it's like, you know, eight years old, It's hard. 
+Thank you.
+And Doctor McCabe, you and another question.
+I'll just read it because it relates to the airborne issues that we were talking about before.
+And your question is about UV light.
+And is that another option?
+If I'm thinking if you're indoors, Um, might that be another option?
+Doctor Sosa have you seen any studies?
+I read a Jet Blue I think one of the airlines is using kind of UV light as one of the ways to perhaps some, uh, you know, clean the airplane or do something, right?
+I mean, I've seen this mostly on press release and thinks mostly on the press, like people using these robots with UV light in airports and large areas where the, you know, in in anything at the moment where there's no clients around.
+They actually have done this, but I haven't really seen that much.
+I mean, I remember at the beginning of the of the epidemic we had to do.
+So use UV-lights or or hydrogen peroxide peroxide, toe clean or mask, our N95 or or sterilize our N95.
+So yeah, so UV lights can be used in both areas or, you know, areas where people are congregate after people have left, obviously, because of the risk of, of skin damage and radiation damage.
+And and also for for objects, you know, like mask and surfaces, etcetera.
+And you see all the times in the labs to to kill bacteria and other viruses.
+So yeah, but I mean, that's that's as far as I can say.
+Thank you, Nestor, I'm just talking about kind of the N95.
+A couple questions on N95 mask a Dan Saltman says.
+Should we be using more N95 masks or surgical masks in the health care settings?
+And I'm thinking, Dan, you're getting it as the uptake of cases go up or just in General Dan, if you want to Maybe, unmute you did kind of further elicit at your question, that would be great.
+Yeah, that I think.
+Thank you.
+Thank you, Joanna.
+That was a follow up to the idea that it's ah, airborne.
+You know, if it's airborne and it's good persisting and we're protecting healthcare workers, maybe those surgical masks are not adequate.
+This is follow up to the, you know, the closed room the closed rooms and the clinics where you can't really You can't really fix the ventilation very easily in a big building.
+Something like that.
+Thanks Dan.
+Nestor, What? Are Your thoughts on that?
+It's a tough question.
+I mean, we here, um, I could give you the are really life experience.
+At the beginning, we were we were not able to use the N95 on everybody.
+So we we're limiting N95 to like, very high risk situations patients who you were going to perform like aerosol generating procedure.
+But at that time, it wasn't There was that much science saying that it was actually airborne all the time.
+Now, more recently, that we are a little bit better with the N95 existence or or the number of N95 we are using N95 every time we contact or we're going to do care for a patient with COVID or a high suspicion of COVID the suspicion that we're waiting for a result because, you know, he had a close contact or something.
+So, yes, So we're using more N95.
+Obviously, my concern And this is my personal opinion Is that if We used to much When If we have another high peak, we're gonna run into trouble again with the N95.
+So it's sort of ah, if a different, difficult decision.
+So and then the other thing is that the everything showed that if if you you know, if you have adequate ventilation in the room, the procedure mask or the surgical mask confers decent protection.
+We have seen the data from other hospitals that that have published their percentage off healthcare workers that are infected, and interestingly enough, the percentage is relatively low, very similar to the community, even in the hype of the epidemic.
+And I'm talking about stories down in Boston, and New York during the spring.
+So so obviously, although theoretically a surgical mask, it's not enough In the practical sense if you, as I was saying, if you layer that, you know, with with adequate ventilation, negative pressure room taking, you know, using the face shield in front of the of the surgical mask, limiting your contact with the patient.
+Oh, you know what?
+It is really necessary and not going out of the room many times during the day.
+All of those measures decrease the incidence and and protect the coworkers.
+But always Well, yeah, if you wanna go into a room and you're gonna do a physical or something and you you suspect the patient has COVID I would recommend the N95 based on what we know now from from you know, different stories.
+Thanks.
+Nestor and Naomi Kistin ask, does the hospital have enough N95's for staff?
+And I think your answer would be possibly now.
+But not if we keep using it every day for all the staff.
+Is that right?
+I don't know how how many we have, but I know we're using it just for COVID patients or suspicion of COVID patients.
+But no for the regular, you know, spraying that comes into the ED.
+In that case, we just wear, you know, the regular procedure mask, and and we do question the patient, you know, if they have a fever, cough, shortness of breath, anosmia.
+But we're not using it all the time, because, yeah, we would run out of N95 in a few days if we use it in all in a patient contacts in all situations.
+Thank.
+Thanks Nestor, this is Leslie.
+I just wanted to add that, um we worry a lot about the interactions with patients, and we need to remember also that we need to protect ourselves with other coworkers because that's actually a substantial force of healthcare spread.
+So, um, when we're talking about it, make sure we're using protection Surgical mask, um, or something when we're around coworkers as well.
+Yeah, exactly.
+The Liberator.
+Yeah.
+Yeah.
+And some.
+Some studies show that most most of the healthcare workers are infected by other healthcare workers in the cafeteria, when they remove the mask to eat to talk, you know, in the break rooms more than with patient contact.
+Interestingly enough, so So it is something to remember all the time that the coworkers, especially when we remove our PPE on start talking or starting it.
+It's when when you really are at risk.
+Excellent points.
+Thank you.
+Thank you, Leslie.
+Thank you, Nestor.
+Um, Doctor Sosa.
+Um, Doctor Tempus wanted to know if you were impressed with the Australian lab study that found COVID-19 virus can remain viable on glass and and money for 28 days.
+Right?
+I have to read the paper.
+I just saw the headline.
+I saw the headline 28 29 days.
+You know, they, uh, it's sort of different to the one before that.
+The top?
+More more, about several days.
+Eso Yeah, it's interesting.
+I have to read and, you know, in order to give give my my opinion, But I think that the practical message is the same.
+I mean, you have to assume that it's going to be in a surface, that you have to clean a surface.
+If there has been a patient there, wash your hands as much as you can.
+I think the take home message.
+But I'll, I'll be back to for this question next week.
+And I look at the data off the paper specifically, but I think you know it.
+It's not going to change our behavior that much.
+It's just that we need to be careful with this virus if if if I don't think we need to say that this and say this in this group.
+But I think that that's the take home message. 
+Thank you, Nestor, and I'm wondering of Jeanne Boyle is available.
+Can Jeanne can re unmute you?
+Oh, well, if you if you want to be unmuted, please go write a genie.
+Yeah.
+Hi, Joanna.
+Hi there.
+I think that issue so good to hear you.
+Um, do you want to mention about nursing facilities using UV light?
+Yeah.
+Um, I'm currently in Houston, working with Harris County, which, you know, has had a tremendous problem with trying to contain the COVID-19 spread in our very large metropolitan area.
+And so I go on behalf of the county into nursing facilities, detention centers, homeless centers and group homes to mitigate outbreaks.
+And several of the very well functioning low infection of nursing facilities have been using, um, a room UV light of some sort when they do terminal cleaning.
+So when somebody moves from one part of the facility to another, they vacate their room and as part of the terminal cleaning at the end of it.
+Um, the UV light is placed in the room for a period of time.
+I don't know how long it is if it's overnight or exactly how long, but, um, you know, just by looking at the evidence, just sort of subjectively or objectively, there's it's really quite remarkable that those particular nursing facilities that are employing that type of device really have a low incidence of spread and low incidents of outbreak.
+Whoa.
+Well, thanks, Jamie.
+That's incredible.
+We need to look into that more.
+That's really impressive.
+So good to hear a voice.
+Yeah, you too.
+Back to you, Carla.
+Thanks, Joanna.
+I wanted to, um, ask Dan Saltman again to unmute himself again.
+He have a couple of questions that didn't make it onto his preregistration questions.
+Dan do you want to unmute yourself?
+Thank you.
+Uh, thank you.
+Uh, so one of them was a kind of more narrow question.
+That was about the, uh it's about the presidential treatment.
+Um, you got Would you expect it that when you when somebody receives monoclonal antibodies, is a treatment for COVID That that would, uh, confer any long term immunity, uh, and stimulate the t's cellular immunity and long term immunity.
+So that was one part of that question.
+And the second part was, um just any comments on, uh, how one would judge the president's infectivity as in regards to COVID this is.
+I want to take it.
+Okay, so the first yeah the monoclonals I have read and this is mostly press release and and other comments or a couple of basic science papers with the monoclonal.
+The half life of the monoclonal is a few weeks.
+So, yes, once you get an injection of monoclonal antibodies, it will circulate for for some time.
+So So it's going to confer some at least neutralizing antibodies or antibodies against the spike protein/
+Monoclonals are directed against the spike protein for sometime they don't go away in a couple of days.
+Like like regular drug they actually linger for for a while.
+In one of the papers that I read, I remember, you know, see, in four weeks or one month of half life, So you you have some some protection.
+I don't know what's gonna happen to the immune respond, to the his own immune response If you If you blunt the with monoclonal antibodies, I, um I don't know.
+I have to wait and see the large phase three trials with monoclonal and how the immune response We still produce antibodies to the virus or or this is some somehow blunted and also see the cell immunity.
+It is going to be blunted by the passive immunity.
+But I don't know, I I would just be speculating.
+And regarding the second question was about the treatment of the president? 
+About his ah, assessing the infectivity after he got that really potent kind of treatment.
+So that so that he he may not have mounted much of, ah, cellular immunity response at all.
+That was one for one side of that because because he had an antiviral, got antibodies and it got steroids.
+So it blunted his own his own native response as well.
+And that so then the follow up on that was, how would you, um, you know, in light of that kind of treatment, how would you assess his infectivity?
+His You know, his his ability to pass on the virus, right?
+Okay.
+Yeah.
+So I mean, we don't know for sure, but the best test will be to try to find virus that is culturable or viable in his respiratory secretions.
+So that would be the ideal situation.
+That's not something easy to do.
+But you would have to do Oh, not just a PCR Because the PCR, as we have said many times in these form, um, it's it's could be positive, uh, for for some weeks.
+So you you would have to really do some sensitive.
+They're they're two ways to do that.
+One is to measure subgenomic RNA, which is sort of not just a regular RNA, but something that that indicates that there's active virus replication.
+And the other thing is to try to culture the virus.
+If you're not able to do that or you don't find, um subgenomic RNA you, you can safely assume that he's not infectious.
+If we go just by the rules of the of CDC after 10 days of his initial diagnosis, granted that he's afebrile, you have to assume that he's not excreting virus.
+But the only way to be sure is by doing that.
+And there are a couple of, yeah, issues that as you alluded, number one is dexamethasone.
+Dexamethasone or corticosteroids in general tend to prolong viral shedding.
+So that's that's something against the president that in theory, because he got the dexamethasone, he may not be able to, um, to have a, you know, reduction of the of the viral shedding that soon.
+The second?
+Is that what we know?
+Epidemiological.
+I mentioned these that if a patient has severe COVID, they would have longer viral shedding.
+So if he really has severe COVID on and was hospitalized or he was on, we assume that it is similar to the regular population that is hospitalized with severe COVID.
+He may have a more prolonged shedding, and in fact, in that situation, the CDC talks about 20 days a supposed to 10 days that you have to consider the person infectious just for the sake of greater safety.
+So So you know, it's hard to tell in reality.
+But if they did subgenomic RNA or the PCR was negative and viral culture, and it's negative you can you can safely assume that's probably not not infectious on top of that he received the monoclonal.
+We should protect him from from having a lot of viral replication.
+Uh huh.
+So that's thank you.
+Thank you very much, Nestor.
+I'm measuring that should go to maybe Marla.
+There a couple of questions about whether it makes sense anymore to take the temperature of everybody who's going into a clinic or a restaurant or whether that's been shown to actually prevent, um, infection.
+And I think is the question.
+I don't know, Marla, for a public health standpoint.
+If you if you think that that is something that should continue Yeah, I think it's similar to, um to what I said earlier about your trying to sort of layer on some protections.
+Many people who are infected don't ever develop a fever.
+I've seen some numbers that say more than 50% of people never develop a fever.
+Um, especially if they're in that early symptomatic or pre-symptomatic phase.
+They're not gonna have a fever.
+Um, so you're not going to catch everybody by taking their temperature, But you might catch a couple of people.
+Um, so I think you're really trying to, You know, through the questions about exposure and symptoms and taking a temperature again, trying to sort of catch as many people as you can before they enter the space.
+Um, probably just temperature checks alone are not gonna be very effective.
+Um, you really need to be asking the questions about symptoms and known exposures to confirm cases.
+I think there's also a behavioral thing.
+I mean, when you would you see somebody taking your temperature and asking you questions make you think twice about your symptoms.
+Other.
+If you have nothing, you go into a building, you know, like free.
+We have seen.
+I mean, in some of the cases that we have investigated, people have been symptomatic and they go to work.
+And, you know, if if you don't stop it and ask if they're like Yeah, well, now that you ask me, yeah, you have a little bit of, you know, aches and pains.
+And I had a fever last night, but not not today.
+So that's a type of situation that we face in reality with this patient.
+That then later, later are are detected with COVID, so I think it's important.
+It's a It's a behavioral thing that puts a stop on the door and make people think about their symptoms and remind them that we are in the midst of, a pandemic.
+This is Leslie I just want to get the other question.
+I would love to see people start asking that I don't think people are asking is have you been tested for COVID in the last few days?
+Cause the last month I've had, like, five people call me and say I need a COVID test because I just met with someone and they came in and said they were fine.
+And then we found up that had a COVID test yesterday that came back positive today.
+So I think asking Have you had a COVID test?
+Um, is something else to consider asking Is people come in the door?
+Thank you, Leslie.
+That's think it was really helpful.
+I just wanted to remind for everybody that the CME link just went into the chat about 12 45 and I think she repeated it.
+So please fill that out if you would like CME and you have any feedback for us.
+Um, and also the slide sets from both Nestor and Leslie slides went into the chat as well.
+So you can have a link to the pdf of those slides?
+I'm not sure I don't assure you answered this.
+Um Nestor, But Leslie Hayes was asking Are you going to be more or less likely to develop your own antibodies if you get monocle antibody as a treatment?
+Well, I don't know.
+I don't know for sure.
+I mean, in theory could be less if if you actually let's let's assume you blunt the infection completely.
+With the monoclonal really successful, you may not know matter.
+Induce a natural immune response If if if if the monoclonal In reality, I don't think it's that, you know, 100%.
+You always have virus and you will have to give it really early, You know that.
+But yeah, in theory it should hamper the immune response.
+But I haven't seen any hard data, so we have to We have to really wait.
+But it would.
+And the other thing that you can give you a false positive, IgG.
+So if you measure IgG, you're measuring Maybe the levels of antibodies against the the protein.
+I mean the spike protein, So that's another thing.
+So So I think we need to study and see what type of immune reaction the patient that I've given monoclonal are the same as those are given vaccine.
+What type of immune reaction they haven't will have.
+We will have that information because that's one of the things that they're looking in the phase 3 of Regeneron on and Eli Lilly and also AstraZeneca, which are the three most advanced monoclonal companies right now. 
+Along those lines, Is there any recommendations When we do get a vaccine, if somebody has received a monoclonal antibody, Do you need to wait a couple months before giving the vaccine? 
+That I don't know, You don't like to Give them together because you make blonde that the effect of the vaccine also.
+But I haven't seen any data, but we used it with the other vaccines.
+You don't want to use immunoglobulin, you know very close to the vaccine if if you can, if you can avoid it, and especially if you're going to do it, both you And if it's intramuscular, you have to give it a different places so it doesn't neutralize it.
+Thank you Nestor.
+Sorry, I'm in a lecture.
+No problem.
+Okay, um, there's one that this is a real hard push, but I'm just going to say it anyway, because we don't really Well, I don't think we know, But there's a question from Claudia Guzman.
+COVID-19 is transmitted via fomite, droplet and airborne is that known, which is the number one way that people are getting it.
+Do we Do you know, do we know the answer to that question?
+Maybe Marla, you can also chime in.
+Yeah, the main way.
+It's still thought to be the respiratory droplets.
+So person to person, um, you know, obviously there is an opportunity for fomite transmission, but we don't think that's the primary way that it's spread.
+Um, you know.
+And when CDC released the statement about aerosol transmission, they were very careful to say This doesn't appear to be the same kind of aerosol transmission that we see with TB or measles or varicella.
+Um, it's more of a limited aerosol transmission, So it's still thought that droplet at close person to person droplets spread is the primary way that the infections being transmitted.
+Thank you Marla, back to you Johana.
+Great.
+I'm just I'm wondering Karissa and Cecilia.
+I'm wondering if you have any comments related to any of the these testing questions or anything else.
+We just have a couple minutes left.
+And you, uh, wanted to see if you'd like to add anything to today's session.
+Uh, no, I don't have anything to add.
+Happy to have a quiet testing day?
+Um, maybe just the one thing is that there's not currently any FDA approved or you a authorized test for the sub genomic RNA that Nestor was mentioning.
+Although there are some that are in various processes of development and submission.
+So, um, that may come to light at some point in the near future, or let's nothing near future some point in the future.
+Um, but for now, we'll rely on the CDC guidance for how to determine went to remove isolation.
+Thank you.
+Great.
+Thank you so much.
+Karissa, we really appreciate your presence here.
+I just wanted to let everybody know we have about a minute left.
+We still have the weekly first responder Resiliency Echo.
+That's on Mondays at two o'clock Mountain Time.
+If you need information Maybe can't.
+You could put in the information about the first responder resiliency.
+Echo If if Kent, our digital library in can't get that momentarily, it's always on our project Echo, website and then the 1st and 3rd.
+I think it's the 1st and 3rd Thursdays from 8 to 9 Mountain time.
+We're still having the critical care echo with doctor Michelle Harkins.
+It's not this week, but it will be next week.
+Carl, is that correct?
+Um, I think it's this week, isn't it?
+Was I I, uh it think it's 4 30.
+It's It's on the 15th.
+Yeah, and actually, it's going to be Donna upset.
+It's gonna be talking about COVID-19.
+And, um, that's in.
+I thinks I can't remember.
+I don't know, Elaine, if you have the title of her talk, it's COVID-19 and air pollution on air pollution.
+Okay, fantastic.
+So it seems like it's going to be kind of the intersection between climate change and COVID-19, so it should be really interesting.
+Well, thank you, everybody for participating.
+Another great session and we'll see you next week.
+
