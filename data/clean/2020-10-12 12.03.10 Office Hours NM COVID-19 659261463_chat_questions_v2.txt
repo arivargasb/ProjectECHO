@@ -1,4 +1,8 @@
-1. Q: In those with prolonged symptoms, does that correlate with prolonged viral shedding and infectivity?
+~~~~~~~~~~~~~
+ Question 1
+~~~~~~~~~~~~~
+
+Q: In those with prolonged symptoms, does that correlate with prolonged viral shedding and infectivity?
 
 A: Think Nestor, from your initial.
 Yeah no, I haven't seen that correlation.
@@ -10,7 +14,11 @@ If this is a viral phenomenon or any immune phenomenon and we still don't know, 
 They trying to look for the virus in different issues to see if there's any persistent in the C and s or somewhere else.
 But I haven't seen anything published yet.
 
-2. Q: Did the increase in CV-19 relate to the increase in testing?
+~~~~~~~~~~~~~
+ Question 2
+~~~~~~~~~~~~~
+
+Q: Did the increase in CV-19 relate to the increase in testing?
 
 A: You know, right now, we think that there's multiple factors.
 We kind of had many things change all at the same time.
@@ -26,7 +34,11 @@ There were a lot of things that were kind of given the green light at the same t
 And so we think it's really a cumulative effect of all of those things, not any one thing.
 But people definitely have reported increasing group activities and travel, including dining.
 
-3. Q: If Covid19 is airborne, then we have to improve the ventilation in many/most places to created negative pressure. How is this being addressed?
+~~~~~~~~~~~~~
+ Question 3
+~~~~~~~~~~~~~
+
+Q: If Covid19 is airborne, then we have to improve the ventilation in many/most places to created negative pressure. How is this being addressed?
 
 A: I mean, I can comment on what at least a hypothetical or scientific data says, You know, ideally, yeah, if you're gonna be in a closed space, ideally that that room should have negative pressure.	
 But obviously that's not feasible in most, you know, stores, you know, supermarkets, etcetera.	
@@ -41,9 +53,13 @@ So so, no crowding, indoor spaces is also critical.
 So there.	
 I think there are many, many factors.
 
-4. Q: Based on what we know today, how relevant is to take the temperature of patients to enter a clinic?
+~~~~~~~~~~~~~
+ Question 4
+~~~~~~~~~~~~~
 
-If you if you think that that is something that should continue Yeah, I think it's similar to, um to what I said earlier about trying to sort of layer on some protections.
+Q: Based on what we know today, how relevant is to take the temperature of patients to enter a clinic?
+
+A: If you if you think that that is something that should continue Yeah, I think it's similar to, um to what I said earlier about trying to sort of layer on some protections.
 Many people who are infected don't ever develop a fever.
 I've seen some numbers that say more than 50% of people never develop a fever.
 Um, especially if they're in that early symptomatic or pre-symptomatic phase.
@@ -63,7 +79,11 @@ So that's a type of situation that we face in reality with this patient.
 That then later, later are are detected with COVID, so I think it's important.
 It's a It's a behavioral thing that puts a stop on the door and make people think about their symptoms and remind them that we are in the midst of a pandemic.
 
-5. Q: CDC says children less than 2 should not wear a mask; some pediatricians are advising children less than 5 should not wear a mask. How do we advise our clients?
+~~~~~~~~~~~~~
+ Question 5
+~~~~~~~~~~~~~
+
+Q: CDC says children less than 2 should not wear a mask; some pediatricians are advising children less than 5 should not wear a mask. How do we advise our clients?
 
 A: I'm just going to comment that I have seen a lot of 2 to 5 year olds in clinic recently, and not one has had trouble wearing that face mask correctly.
 So, um, it definitely can be done.
@@ -75,7 +95,11 @@ I mean, I have I have an eight year old at home and she wears the mask.
 But I know when she's in school, she sometimes just put it below the nose, and I have tried to tell her not to do that, but it's like, you know, she's eight years old.
 It's hard.
 
-6. Q: In relation to airborne issues, does UV light work?
+~~~~~~~~~~~~~
+ Question 6
+~~~~~~~~~~~~~
+
+Q: In relation to airborne issues, does UV light work?
 
 A: I read a Jet Blue I think one of the airlines is using kind of UV light as one of the ways to perhaps some, uh, you know, clean the airplane or do something, right?
 I mean, I've seen this mostly on press release and think mostly on the press, like people using these robots with UV light in airports and large areas where the, you know, in in anything at the moment where there's no clients around.
@@ -87,7 +111,11 @@ And and also for for objects, you know, like mask and surfaces, etcetera.
 And you see all the times in the labs to to kill bacteria and other viruses.	
 So yeah, but I mean, that's that's as far as I can say.
 
-7. Q: Should we be using more N-95 type masks and less surgical masks in the healthcare settings?
+~~~~~~~~~~~~~
+ Question 7
+~~~~~~~~~~~~~
+
+Q: Should we be using more N-95 type masks and less surgical masks in the healthcare settings?
 
 A: It's a tough question.	
 I mean, we here, um, I could give you the a really life experience.	
@@ -107,7 +135,11 @@ It is really necessary and not going out of the room many times during the day.
 All of those measures increase the incidence and and protect the coworkers.
 But always Well, yeah, if you wanna go into a room and you're gonna do a physical or something and you you suspect the patient has COVID I would recommend the N95 based on what we know now from from you know, different stories.
 
-8. Q: Does the hospital have enough N-95?s for staff?
+~~~~~~~~~~~~~
+ Question 8
+~~~~~~~~~~~~~
+
+Q: Does the hospital have enough N-95?s for staff?
 
 A: And I think your answer would be possibly now.
 But not if we keep using it every day for all the staff.
@@ -117,7 +149,11 @@ But no for the regular, you know, sprayer that comes into the ED.
 In that case, we just wear, you know, the regular procedure mask, and and we do question the patient, you know, if they have a fever, cough, shortness of breath, anosmia.
 But we're not using it all the time, because, yeah, we would run out of N95 in a few days if we use it in all patient contacts in all situations.
 
-9. Q: COVID19 is transmitted via fomite, droplet and airborne, is it known which is the number one way people are getting it?
+~~~~~~~~~~~~~
+ Question 9
+~~~~~~~~~~~~~
+
+Q: COVID19 is transmitted via fomite, droplet and airborne, is it known which is the number one way people are getting it?
 
 A: Yeah, the main way.
 It's still thought to be the respiratory droplets.
@@ -126,7 +162,11 @@ Um, you know.
 And when CDC released the statement about aerosol transmission, they were very careful to say This doesn't appear to be the same kind of aerosol transmission that we see with TB or measles or varicella.	
 Um, it's more of a limited aerosol transmission, So it's still thought that droplet at close person to person droplets spread is the primary way that the infections being transmitted.
 
-10. Q: Are you going to be more or less likely to develop your own antibodies if you get monoclonal antibodies?
+~~~~~~~~~~~~~
+ Question 10
+~~~~~~~~~~~~~
+
+Q: Are you going to be more or less likely to develop your own antibodies if you get monoclonal antibodies?
 
 A: I have read and this is mostly press release and and other comments or a couple of basic science papers with the monoclonal.
 The life of the monoclonal is a few weeks.	
