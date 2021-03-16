@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Add icon library  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <meta charset="UTF-8">
+    <title>Oct12, 2020 Office Hours NM COVID-19</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- navigation var -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a style="color: rgb(93, 95, 95); font-weight: bold; font-size: 14px; font-family: 'Gill Sans'; " class="navbar-brand" href="https://hsc.unm.edu/echo/institute-programs/covid-19-response/nm-covid19/infectious-disease/">UNM HSCI Program Website</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" 
+        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+        aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+            
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html" style="font-family: 'Gill Sans'">Home        
+                        <!-- <span class="sr-only">(current)</span> -->
+                    </a> 
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://hsc.unm.edu/echo/institute-programs/covid-19-response/" style="font-family: 'Gill Sans'">Other COVID-19 programs</a>
+                </li>                
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact" style="font-family: 'Gill Sans'">Questions?</a> 
+                </li>
+                <li class="nav-item">
+                <input type="text" placeholder="Search.." style="font-family: 'Gill Sans'" id="myInput" type="text" name="myCountry">
+            </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+  
+<!-- navigation var -->
+
+
+
+
+<div style="background:#007a86 !important; font-family: 'Gill Sans'" class="jumbotron text-center text-white">
+     <div class="row">
+        <div class="col-md-3">
+            <img class="img-fluid" src="project_echo.jpg" alt="Project ECHO">
+        </div>
+        <div class="col-md-9">
+            <h3 style="font-size: 40px">NM Infectious Disease Office Hours</h3>
+            <hr class="my-4">
+            <h5 style="font-family: 'Gill Sans'" >October 12, 2020</h5>
+        </div>
+    </div>
+</div>
+ 
+ <div class="container" style="margin-top:px">
+    <!-- Menu -->
+    <div id="menu">
+        <h5 style="font-family: 'Gill Sans'" >Select a section:</h5>
+        &nbsp;
+        <div class="card" style="border: 1px solid rgb(194, 204, 204);">
+            <div class="card-body">
+                <div class="row">
+                    <FORM></FORM>
+                    <div class="col-md-7">
+                        <h5 style="font-family: 'Gill Sans'">Speaker 1: Nestor Sosa, MD</h5>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName1" onclick="ShowRadioButtonDiv('GroupName', 8)"> Moderna Vaccine in Older Age Groups</h6></input>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName2" onclick="ShowRadioButtonDiv('GroupName', 8)"> Failure of HCQ in Pre-Exposure Prophylaxis</h6></input>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName3" onclick="ShowRadioButtonDiv('GroupName', 8)"> CDC Update Mon 5th Oct:How COVID Spreads?</h6></input>
+                        <!-- <br> -->
+                        &nbsp;
+                        <h5 style="font-family: 'Gill Sans'">Speaker 2: Leslie Hyes, MD</h5>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName4" onclick="ShowRadioButtonDiv('GroupName', 8)"> The Science of Persuasion</h6></input>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName5" onclick="ShowRadioButtonDiv('GroupName', 8)"> COVID-19 Is Now the Third Leading Cause of Death in the U.S.</h6></input>
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName6" onclick="ShowRadioButtonDiv('GroupName', 8)"> Articles worth reading or passing along to that difficult uncle on Facebook</h6></input>
+                        <!-- <br> -->
+                        &nbsp;
+                    </div>
+                    <div class="col-md-5">
+                        <h5 style="font-family: 'Gill Sans'">Q&A</h5>   
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName7" onclick="ShowRadioButtonDiv('GroupName', 8)"> Questions discussed</h6></input>
+                        <br>
+                        <h5 style="font-family: 'Gill Sans'">Literature</h5>   
+                        <h6 style="font-family: 'Gill Sans'" class="font-weight-light"><input type="radio" name="RadioGroupName" id="GroupName8" onclick="ShowRadioButtonDiv('GroupName', 8)"> Abstracts of articles discussed</h6></input>
+                    </div>
+                </FORM>
+                </div>
+            
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <!-- <FORM style="padding-left:5px">
+            
+            <input type="radio" name="RadioGroupName" id="GroupName2" onclick="ShowRadioButtonDiv('GroupName', 3)"/>Show section 2<BR>
+            <input type="radio" name="RadioGroupName" id="GroupName3" onclick="ShowRadioButtonDiv('GroupName', 3)"/>Show section 3<BR>
+            </FORM> -->
+
+
+            <SCRIPT>
+                function ShowRadioButtonDiv (IdBaseName, NumberOfButtons) {
+                    for (x=1;x<=NumberOfButtons;x++) {
+                        CheckThisButton = IdBaseName + x;
+                        ThisDiv = IdBaseName + x +'Div';
+                    if (document.getElementById(CheckThisButton).checked) {
+                        document.getElementById(ThisDiv).style.display = "block";
+                        window.scrollBy(0, 1300);
+                        }
+                    else {
+                        document.getElementById(ThisDiv).style.display = "none";
+                        }
+                    }
+                    return false;
+                }
+                </SCRIPT>
+
+            <!-- <div id="GroupName1Div" style="display:none;">Section 1</div>
+            <div id="GroupName2Div" style="display:none;">Section 2</div>
+            <div id="GroupName3Div" style="display:none;">Section 3</div> -->
+            
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>   
+
+<!-- social media sticky bar -->
+<!-- <div class="stickyicon-list">  
+    <a href="#facebook" class="facebook">   
+    <i class="fa fa-facebook"></i>   
+    </a>   
+    <a href="#twitter" class="twitter">   
+    <i class="fa fa-twitter"></i>   
+    </a>       
+    <a href="#linkedin" class="linkedin">   
+    <i class="fa fa-linkedin"></i>   
+    </a>   
+    <a href="#google" class="google">   
+    <i class="fa fa-google"></i>   
+    </a>     
+    <a href="#instagram" class="instagram">   
+    <i class="fa fa-instagram"></i>   
+    </a>                              
+    <a href="#youtube" class="youtube">   
+    <i class="fa fa-youtube"></i>   
+    </a>   
+    </div>   -->
+
+        <div class="container" style="margin-top:px">
+            <!-- Topic 1 -->
+            <div id="GroupName1Div" style="display:none;">
+                <br>
+                <br>
+                <br>
+            
+                <h5 style="font-family: 'Gill Sans'"><u>1. Moderna Vaccine in Older Age Groups</u></h5>
+
+                <br>
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <!-- <pre id="keywords11" 
+                        style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: bolder; font-style: italic; font-family: 'Gill Sans'; height: 300px; width:550px; white-space: normal; white-space: pre-wrap; position: absolute;">
+                        Fetch a file to change this text.
+                        </pre> -->
+                            <!-- <p width="330" style="height: 300px> -->
+                        <!-- <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1_key.txt')
+                        async function getText(file) {
+                        let myObject = await fetch(file);
+                        let myText = await myObject.text();
+                        //   console.log(myText, style);
+                        document.getElementById("keywords11").innerHTML =  myText;
+                        }
+                        </script> -->
+
+                        <div class=iframe-container>
+                        <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=9&end=300&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+
+                        <!-- <video width="550" height="345" controls>
+                            <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:00:09,00:05:00" type="video/mp4">
+                        </video> -->
+
+
+                    </div>
+                    <div class="col-md-4">
+                        <!-- &nbsp; -->
+
+                        <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+
+
+                        <div class="relative">            
+
+                            <pre id="Speaker11" 
+                            style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt">
+                            Fetch a file to change this text.
+                            </pre>
+
+                                <!-- <p width="330" style="height: 300px> -->
+                            <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker1_section1.txt')
+
+                            async function getText(file) {
+                            let myObject = await fetch(file);
+                            let myText = await myObject.text();
+                            //   console.log(myText, style);
+
+                            document.getElementById("Speaker11").innerHTML =  myText;
+                            }
+
+                            </script>
+
+                            <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                            </object> -->
+                        </div> 
+                    </div> 
+
+                </div>
+
+                         <!-- </div> -->
+                         <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                         <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+                        <script>
+                        function scrollWin() {
+                        window.scrollBy(0, -1300);
+                        }
+                        </script>
+                    <br>
+                    <br>
+                    <br>  
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>  
+            </div>
+            <!-- <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br> -->
+            <!-- Topic 2 -->
+            <div id="GroupName2Div" style="display:none;">
+            <!-- <div id="topic2"> -->
+                <br>
+                <br>
+                <br>
+                <h5 style="font-family: 'Gill Sans'"><u>2. Failure of HCQ in Pre-Exposure Prophylaxis</u></h5>
+                <br>
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <div class=iframe-container>
+                            <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=300&end=775&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+
+                        <!-- <video width="550" height="345" controls>
+                        <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:04:35,00:12:55" type="video/mp4">
+                        </video> -->
+
+
+                    </div>
+                    <div class="col-md-4">
+
+                        <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+                        <div class="relative">            
+
+                            <pre id="Speaker12" 
+                            style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt">
+                            Fetch a file to change this text.
+                            </pre>
+
+                                <!-- <p width="330" style="height: 300px> -->
+                            <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker1_section2.txt')
+
+                            async function getText(file) {
+                            let myObject = await fetch(file);
+                            let myText = await myObject.text();
+                            //   console.log(myText, style);
+
+                            document.getElementById("Speaker12").innerHTML =  myText;
+                            }
+
+                            </script>
+
+                            <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                            </object> -->
+                        </div> 
+
+                    </div> 
+                </div> 
+
+
+                    <!-- <h6 style="font-family: 'Gill Sans'"><kbd>Transcript</h6></kbd>
+                    <div class="relative">            
+                        <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section2.txt" type="text/plain" width="330" style="height: 300px" > 
+                        </object>
+                    </div>  -->
+
+
+
+                    <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                    <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+                   <script>
+                   function scrollWin() {
+                   window.scrollBy(0, -1300);
+                   }
+                   </script>
+               <br>
+               <br>
+               <br>  
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>  
+
+            </div>
+            <!-- <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br> -->
+            <!-- Topic 3 -->
+            <div id="GroupName3Div" style="display:none;">
+            <!-- <div id="topic3"> -->
+                <br>
+                <br>
+                <br>
+                <h5 style="font-family: 'Gill Sans'"><u>3. CDC Update Mon 5th Oct:How COVID Spreads?</u></h5>
+                <br>
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <div class=iframe-container>
+                            <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=775&end=804&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+
+                        <!-- <video width="550" height="345" controls>
+                        <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:12:55,00:13:24" type="video/mp4">
+                        </video> -->
+
+                    </div>
+                    <div class="col-md-4">
+                        <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+                        <div class="relative">            
+
+                            <pre id="Speaker13" 
+                            style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt">
+                            Fetch a file to change this text.
+                            </pre>
+
+                                <!-- <p width="330" style="height: 300px> -->
+                            <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker1_section3.txt')
+
+                            async function getText(file) {
+                            let myObject = await fetch(file);
+                            let myText = await myObject.text();
+                            //   console.log(myText, style);
+
+                            document.getElementById("Speaker13").innerHTML =  myText;
+                            }
+
+                            </script>
+
+                            <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                            </object> -->
+                        </div>                         </div> 
+                    </div> 
+                    <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                    <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+                   <script>
+                   function scrollWin() {
+                   window.scrollBy(0, -1300);
+                   }
+                   </script>
+               <br>
+               <br>
+               <br>  
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>  
+                </div>
+            </div>
+            <!-- <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br> -->
+            <!-- Topic 4 -->
+            <div id="GroupName4Div" style="display:none;">
+                <br>
+                <br>
+                <br>
+                <h5 style="font-family: 'Gill Sans'"><u>4. The Science of Persuasion</u></h5>
+                <br>
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <div class=iframe-container>
+                            <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=940&end=1099&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        <!-- <video width="550" height="345" controls>
+                        <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:15:40,00:18:19" type="video/mp4">
+                        </video> -->
+
+                    </div>
+                    <div class="col-md-4">
+                        <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+                        <div class="relative">            
+
+                            <pre id="Speaker21" 
+                            style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt">
+                            Fetch a file to change this text.
+                            </pre>
+
+                                <!-- <p width="330" style="height: 300px> -->
+                            <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker2_section1.txt')
+
+                            async function getText(file) {
+                            let myObject = await fetch(file);
+                            let myText = await myObject.text();
+                            //   console.log(myText, style);
+
+                            document.getElementById("Speaker21").innerHTML =  myText;
+                            }
+
+                            </script>
+
+                            <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                            </object> -->
+                        </div> 
+                        </div> 
+                    </div> 
+                    <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                    <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+                   <script>
+                   function scrollWin() {
+                   window.scrollBy(0, -1300);
+                   }
+                   </script>
+               <br>
+               <br>
+               <br>  
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>  
+
+            </div>
+            </div>
+            <!-- <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br> -->
+            <!-- Topic 5 -->
+            <div id="GroupName5Div" style="display:none;">   
+                <br>
+                <br>
+                <br>                        
+            <h5 style="font-family: 'Gill Sans'"><u>5. COVID-19 Is Now the Third Leading Cause of Death in the U.S.</u></h5>
+                <br>
+                <div class="row">
+                <div class="col-md-8">
+
+                    <div class=iframe-container>
+                        <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=1099&end=1226&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+
+                    <!-- <video width="550" height="345" controls>
+                    <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:18:19,00:20:26" type="video/mp4">
+                    </video> -->
+
+                </div>
+                <div class="col-md-4">
+                    <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+                    <div class="relative">            
+
+                        <pre id="Speaker22" 
+                        style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt">
+                        Fetch a file to change this text.
+                        </pre>
+
+                            <!-- <p width="330" style="height: 300px> -->
+                        <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker2_section2.txt')
+
+                        async function getText(file) {
+                        let myObject = await fetch(file);
+                        let myText = await myObject.text();
+                        //   console.log(myText, style);
+
+                        document.getElementById("Speaker22").innerHTML =  myText;
+                        }
+
+                        </script>
+
+                        <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                        </object> -->
+                    </div> 
+                    </div> 
+                </div> 
+                <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+               <script>
+               function scrollWin() {
+               window.scrollBy(0, -1300);
+               }
+               </script>
+           <br>
+           <br>
+           <br>  
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>  
+
+            </div>
+       
+        <!-- <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>             -->
+            <!-- Topic 6 -->
+            <div id="GroupName6Div" style="display:none;">  
+                <br>
+                <br>
+                <br>                        
+            <h5 style="font-family: 'Gill Sans'"><u>6. Articles worth reading or passing along to that difficult uncle on Facebook</u></h5>
+             <br>
+            <div class="row">
+                <div class="col-md-8">
+
+                    <div class=iframe-container>
+                        <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=1226&end=1300&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    <!-- <video width="550" height="345" controls>
+                    <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:20:26,00:21:40" type="video/mp4">
+                    </video> -->
+
+                </div>
+                <div class="col-md-4">
+                    <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Transcript</h6>
+                    <div class="relative">            
+
+                        <pre id="Speaker23" 
+                        style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-height:20pt ;">
+                        
+                        </pre>
+
+                            <!-- <p width="330" style="height: 300px> -->
+                        <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_v2_speaker2_section3.txt')
+
+                        async function getText(file) {
+                        let myObject = await fetch(file);
+                        let myText = await myObject.text();
+                        //   console.log(myText, style);
+
+                        document.getElementById("Speaker23").innerHTML =  myText;
+                        }
+
+                        </script>
+
+                        <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                        </object> -->
+                    </div> 
+                    </div> 
+                </div> 
+                <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+               <script>
+               function scrollWin() {
+               window.scrollBy(0, -1300);
+               }
+               </script>
+           <br>
+           <br>
+           <br>  
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>  
+
+            </div>
+        <!-- <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>           -->
+            <!-- Q&A -->
+            <div id="GroupName7Div" style="display:none;">  
+                <br>
+                <br>
+                <br>
+                <h5 style="font-family: 'Gill Sans'"><u>7. Q&A</u></h5>
+            <br>
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <div class=iframe-container>
+                            <iframe width="550" height="345" src="https://www.youtube.com/embed/SXgs5iXN2jE?version=3&start=1300&end=3468&rel=0&showinfo=0&modestbranding=1&hd=1&autohide=1/controls=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        <!-- <video width="550" height="345" controls>
+                            <source src="https://project-echo-pilot.s3.amazonaws.com/videos/NM+COVID-19+Office+Hours/2020-10-12+12.03.10+Office+Hours+NM+COVID-19+659261463/zoom_0.mp4#t=00:22:00,00:57:48" type="video/mp4">
+                        </video> -->
+
+                    </div>
+                    <div class="col-md-4">                                 
+
+                        <h6 style="color: white; font-family: 'Gill Sans'; width: 120%; padding: 5px 0;text-align: center;background-color: #007a86 ">Questions discussed</h6>
+                        <div class="relative">            
+
+                            <pre id="Q&A" 
+                            style= "color:rgb(39, 41, 39); font-size: 14px; font-weight: lighter; font-family: 'Gill Sans'; height: 300px; width:98%;padding-left: 2%; white-space: normal; white-space: pre-wrap; position: absolute; line-break: loose;">
+                            Fetch a file to change this text.
+                            </pre>
+
+                                <!-- <p width="330" style="height: 300px> -->
+                            <script>src=getText('https://arivargasb.github.io/ProjectECHO/data/clean/2020-10-12%2012.03.10%20Office%20Hours%20NM%20COVID-19%20659261463_chat_questions.txt')
+
+                            async function getText(file) {
+                            let myObject = await fetch(file);
+                            let myText = await myObject.text();
+                            //   console.log(myText, style);
+
+                            document.getElementById("Q&A").innerHTML =  myText;
+                            }
+
+                            </script>
+
+                            <!-- <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_v2_speaker1_section1.txt" type="text/plain" width="330" style="height: 300px" > 
+                            </object> -->
+                        </div> 
+
+                        <!-- <h6><kbd>Questions discussed</kbd></h6>
+                        <div class="relative"> 
+                            <object data="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_chat_questions.txt" type="text/plain" width="350" style="height: 300px">
+                            </object>     
+                        </div>                      -->
+                    </div>
+                    <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                    <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+                   <script>
+                   function scrollWin() {
+                   window.scrollBy(0, -1300);
+                   }
+                   </script>
+               <br>
+               <br>
+               <br>  
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>  
+
+                </div>
+            </div>
+                <!-- <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br> -->
+            <!-- Articles -->
+            <div id="GroupName8Div" style="display:none;">  
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>    
+                    <br>
+                    <br>        
+                    <h5 style="font-family: 'Gill Sans'"><u>8. Literature reviewed</u></h5>
+                    <br>
+                        <h6 style="font-family: 'Gill Sans'" class="lead"><u>Blog posts</u></h6>
+                        <div class="relative2">  
+                        <embed src="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_blogs.pdf#zoom=90&scrollbar=0&toolbar=0" width="100%" height="100%" type="application/pdf"></embed>
+                    </div>
+                        <!-- <br> -->
+                        <!-- <form method="get" action="data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_blogs.pdf"> -->
+                    
+                            <button class="btn" onclick="NewTab()"><i class="fa fa-download"></i> Download</button>    
+                            <script> 
+                                function NewTab() { 
+                                    window.open( 
+                                      "data/clean/2020-10-12 12.03.10 Office Hours NM COVID-19 659261463_blogs.pdf", "_blank"); 
+                                } 
+                            </script> 
+                <!-- </form> -->
+                <!-- </div> -->
+                <br>
+                <button onclick=scrollWin() class="button button1" >Back to menu</button>
+                <!-- <button onclick="scrollWin()">Click me to scroll horizontally!</button><br><br> -->
+
+               <script>
+               function scrollWin() {
+               window.scrollBy(0, -1300);
+               }
+               </script>
+
+<script>
+    function autocomplete(inp, arr) {
+      /*the autocomplete function takes two arguments,
+      the text field element and an array of possible autocompleted values:*/
+      var currentFocus;
+      /*execute a function when someone writes in the text field:*/
+      inp.addEventListener("input", function(e) {
+          var a, b, i, val = this.value;
+          /*close any already open lists of autocompleted values*/
+          closeAllLists();
+          if (!val) { return false;}
+          currentFocus = -1;
+          /*create a DIV element that will contain the items (values):*/
+          a = document.createElement("DIV");
+          a.setAttribute("id", this.id + "autocomplete-list");
+          a.setAttribute("class", "autocomplete-items");
+          /*append the DIV element as a child of the autocomplete container:*/
+          this.parentNode.appendChild(a);
+          /*for each item in the array...*/
+          for (i = 0; i < arr.length; i++) {
+            /*check if the item starts with the same letters as the text field value:*/
+            if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+              /*create a DIV element for each matching element:*/
+              b = document.createElement("DIV");
+              /*make the matching letters bold:*/
+              b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+              b.innerHTML += arr[i].substr(val.length);
+              /*insert a input field that will hold the current array item's value:*/
+              b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+              /*execute a function when someone clicks on the item value (DIV element):*/
+              b.addEventListener("click", function(e) {
+                  /*insert the value for the autocomplete text field:*/
+                  inp.value = this.getElementsByTagName("input")[0].value;
+                  /*close the list of autocompleted values,
+                  (or any other open lists of autocompleted values:*/
+                  closeAllLists();
+              });
+              a.appendChild(b);
+            }
+          }
+      });
+      /*execute a function presses a key on the keyboard:*/
+      inp.addEventListener("keydown", function(e) {
+          var x = document.getElementById(this.id + "autocomplete-list");
+          if (x) x = x.getElementsByTagName("div");
+          if (e.keyCode == 40) {
+            /*If the arrow DOWN key is pressed,
+            increase the currentFocus variable:*/
+            currentFocus++;
+            /*and and make the current item more visible:*/
+            addActive(x);
+          } else if (e.keyCode == 38) { //up
+            /*If the arrow UP key is pressed,
+            decrease the currentFocus variable:*/
+            currentFocus--;
+            /*and and make the current item more visible:*/
+            addActive(x);
+          } else if (e.keyCode == 13) {
+            /*If the ENTER key is pressed, prevent the form from being submitted,*/
+            e.preventDefault();
+            if (currentFocus > -1) {
+              /*and simulate a click on the "active" item:*/
+              if (x) x[currentFocus].click();
+            }
+          }
+      });
+      function addActive(x) {
+        /*a function to classify an item as "active":*/
+        if (!x) return false;
+        /*start by removing the "active" class on all items:*/
+        removeActive(x);
+        if (currentFocus >= x.length) currentFocus = 0;
+        if (currentFocus < 0) currentFocus = (x.length - 1);
+        /*add class "autocomplete-active":*/
+        x[currentFocus].classList.add("autocomplete-active");
+      }
+      function removeActive(x) {
+        /*a function to remove the "active" class from all autocomplete items:*/
+        for (var i = 0; i < x.length; i++) {
+          x[i].classList.remove("autocomplete-active");
+        }
+      }
+      function closeAllLists(elmnt) {
+        /*close all autocomplete lists in the document,
+        except the one passed as an argument:*/
+        var x = document.getElementsByClassName("autocomplete-items");
+        for (var i = 0; i < x.length; i++) {
+          if (elmnt != x[i] && elmnt != inp) {
+            x[i].parentNode.removeChild(x[i]);
+          }
+        }
+      }
+      /*execute a function when someone clicks in the document:*/
+      document.addEventListener("click", function (e) {
+          closeAllLists(e.target);
+      });
+    }
+    
+    /*An array containing all the country names in the world:*/
+    var countries = ["vaccine", 'Moderna vaccine', 'spread', 'hydroxychloroquine', 'Remdesivir' ];
+    
+    /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
+    autocomplete(document.getElementById("myInput"), countries);
+    </script>  
+
+
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+
+
+
+
+            </div>
+             
+        </div>
+</body>
