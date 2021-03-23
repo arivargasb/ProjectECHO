@@ -1,0 +1,40 @@
+3	So she was given fluids and potassium and oxygen initially, and then she was transferred to our other facility.	4.707333333333334
+3	It it's in one a Sandoval Regional Medical Center.	4.817666666666667
+3	Excuse me for mild DKA in the setting of a COVID pneumonia when she actually arrived her bicarb normalized and her glucose was still elevated at 300.	4.872
+3	But her gap had closed on.	5.080166666666667
+3	Her gap was eight, but she still did have some key tones in her blood.	5.120166666666666
+3	Insulin subq was started as a gap was closed and and she didn't have insulin started the outside hospital because her potassium was 3.0.	5.207333333333334
+3	And they were a little worried that giving her insulin would shift more potassium in the cells and cause a bigger problem for her.	5.3325
+3	So they concentrated on fluids, oxygen and potassium in the outside institution.	5.434
+3	So she had the insulin subq started, Um, Ddimer.	5.5139999999999985
+3	On admission, it s R M.	5.586333333333332
+3	C was 308 ldh was 295 a little elevated, and CRP was 11, or hemoglobin a1c was 11% and the estimated average glucose was 280 with that next slide.	5.6175000000000015
+3	So she was treated with oxygen sheet did self proning.	5.8889999999999985
+3	And she did really very well.	5.933833333333332
+3	She was started on remdesivir and she ultimately was well controlled.	5.958333333333332
+3	With on legal are Glargine 5 units at night and a sliding scale to control her blood sugar.	6.035833333333333
+3	They were anticipating discharge.	6.126166666666666
+3	She was on the floor service and then she spiked a fever and had worsening.	6.155833333333334
+3	Ah, oxygen requirement On day six, she was intubated on day seven as she was requiring really high vent settings.	6.2189999999999985
+3	They did a CT scan that did not reveal a PE just had patchy bilateral infiltrates typical with COVID.	6.325333333333332
+3	And then she was transferred to you in a hospital prior to proning attempts there at SRMC	6.476
+3	Because she was tenuous and she thought, and providers wondered would she need ECMO.	6.577666666666667
+3	Um, instead of just trying to keep things going at at the outside hospital next slide.	6.692333333333334
+3	So when she was over here, she had regular, you know, typical vents setting.	6.8356666666666674
+3	She was on volume control.	6.925833333333332
+3	We did targeted, you know, title volume, six cc's per kilo.	6.949166666666668
+3	To try to decrease barrel trauma.	7.023833333333332
+3	Um, she ramped up on those settings.	7.069
+3	We we paralyzed her.	7.107333333333332
+3	We've prone her.	7.14
+3	She's on iNO, inhaled nitric oxide is a pulmonary basal dilator, um, to try to improve her oxygenation.	7.1545
+3	She ultimately developed renal failure and is currently on ah, continuous renal replacement therapy.	7.277333333333332
+3	Um, because she is on pressors now, due to some of the sedation, um, to maintain paralysis and proning, um and so wouldn't tolerate regular hemodialysis ultimately we changed her to the APRV or Bivent settings on hospital day 25.	7.3839999999999995
+3	Um, and this is just to try to improve her oxygenation.	7.725666666666667
+3	She never required ECMO, um, and we were able to do things over the course of time, but she is actually still presently in the hospital, Um, and and very critically ill next slide.	7.789
+3	So with that Ah, you know, this is a case of a, a patient with what she thought was diet controlled diabetes.	8.024
+3	Otherwise, no real medical problems, Young woman, Um who then comes in and does pretty well and then in about a week into her course here at the hospital has was probably a cytokine-storm with the fever, little hypertension, worsening respiratory status, and now is still quite ill in our our system.	8.153333333333332
+3	And so we've seen this several times.	8.480333333333332
+3	Um, and that's why I was hoping for a doctor a Bouchonville to give us Ah, talk about diabetes.	8.5305
+3	And And what is it about diabetes that is making this?	8.626333333333333
+3	Um, such a risk factor for patients with COVID.	8.680833333333334
