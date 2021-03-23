@@ -5,13 +5,13 @@ Good morning and good morning before a holiday weekend.	1.183
 So it's good to see some, uh, fases, even though maybe no one's going anywhere for the holiday.	1.2328333333333332
 I know I'm not, but that's okay.	1.3128333333333333
 So thanks for joining us this morning, and I I asked a colleague of mine to give a presentation today on, Ah, diabetes.	1.3451666666666666
-And the reason, um, you know, the Wuhan data suggested that the patients that had the worst outcome were those with cardiovascular disease and, um, you know, age over, you know, 50 60 70 and I went up for decades.	1.4873333333333332
+And the reason, um, you know, the Wuhan data suggested that the patients that had the worst outcome were those with cardiovascular disease and, um, you know, age over, you know, 50 60 70 and went up for decade.	1.4873333333333332
 Um, but what we noticed in our cohort of patients, the majority of patients that did poorly were actually diabetics and in potential obese diabetic.	1.758
 So my question was, you know, what is there?	1.9233333333333333
 Is there something specific about diabetes that's putting these patients at risk and do?	1.9858333333333333
 Is there something that we haven't really talked about or, um, with this in particular?	2.0566666666666666
 So it's my pleasure to introduce.	2.133666666666667
-Ah, my colleague, uh, met Bouchonville, who is an associate professor medicine.	2.1713333333333336
+Ah, my colleague, uh, Matt Bouchonville, who is an associate professor medicine.	2.1713333333333336
 He's an associate director for project echoes.	2.277333333333333
 So many of you may already know him, and he runs his own endocrine echo.	2.309833333333333
 Um and so I'm going to present a case.	2.3713333333333333
@@ -30,10 +30,10 @@ She's not on any medications.	3.4415
 And, of course, her family history is positive for diabetes and her father and her brother.	3.58333333333 
 Next slide on the initial evaluation at the outside ah emergency department.	3.4723333333333333
 Her room air saturation was 86%.	3.6670000000000003
-She was tachycardic at 1 10 had a normal BP.	3.7093333333333334
-22 with her respiratory rate.	3.7765
+She was tachycardic at 110 had a normal BP.	3.7093333333333334
+And a little .... 22 with a respiratory rate.	3.7765
 Her BMI was 34.	3.8253333333333335
-In general, she appears very comfortable.	3.855166666666667
+In general, she appeared very comfortable.	3.855166666666667
 She's tachycrdic.	3.8913333333333333
 She didn't have a murmur.	3.9069999999999996
 Her chest was clear.	3.9231666666666665
@@ -53,16 +53,16 @@ Her troponin was negative and lactate was a little elevated at 3.4.	4.4971666666
 Her white count was normal and her chest actually had bilateral patch opacities next slide.	4.544333333333333
 So she was given fluids and potassium and oxygen initially, and then she was transferred to our other facility.	4.707333333333334
 It it's in one a Sandoval Regional Medical Center.	4.817666666666667
-Excuse me for mild DKA in the setting of a COVID pneumonia when she actually arrived her bicarb normalized and her glucose was still elevated at 300.	4.872
+Excuse me for mild DKA in the setting of a COVID pneumonia when she actually arrived to srmc her bicarb normalized and her glucose was still elevated at 300.	4.872
 But her gap had closed on.	5.080166666666667
-Her gap was eight, but she still did have some key tones in her blood.	5.120166666666666
+Her gap was eight, but she still did have some ketones in her blood.	5.120166666666666
 Insulin subq was started as a gap was closed and and she didn't have insulin started the outside hospital because her potassium was 3.0.	5.207333333333334
 And they were a little worried that giving her insulin would shift more potassium in the cells and cause a bigger problem for her.	5.3325
 So they concentrated on fluids, oxygen and potassium in the outside institution.	5.434
 So she had the insulin subq started, Um, Ddimer.	5.513999999999999
-On admission, it s R M.	5.586333333333333
-C was 308 ldh was 295 a little elevated, and CRP was 11, or hemoglobin a1c was 11% and the estimated average glucose was 280 with that next slide.	5.617500000000001
-So she was treated with oxygen sheet did self proning.	5.888999999999999
+On admission at srmc	5.586333333333333
+Was 308 ldh was 295 a little elevated, and CRP was 11, or hemoglobin a1c was 11% and the estimated average glucose was 280 with that next slide.	5.617500000000001
+So she was treated with oxygen she did self proning.	5.888999999999999
 And she did really very well.	5.933833333333333
 She was started on remdesivir and she ultimately was well controlled.	5.958333333333333
 With on legal are Glargine 5 units at night and a sliding scale to control her blood sugar.	6.035833333333333
@@ -73,14 +73,14 @@ They did a CT scan that did not reveal a PE just had patchy bilateral infiltrate
 And then she was transferred to you in a hospital prior to proning attempts there at SRMC	6.476
 Because she was tenuous and she thought, and providers wondered would she need ECMO.	6.577666666666667
 Um, instead of just trying to keep things going at at the outside hospital next slide.	6.692333333333334
-So when she was over here, she had regular, you know, typical vents setting.	6.835666666666667
+So when she was over here, she had regular, you know, typical vent setting.	6.835666666666667
 She was on volume control.	6.925833333333333
-We did targeted, you know, title volume, six cc's per kilo.	6.949166666666667
-To try to decrease barrel trauma.	7.023833333333333
+We did targeted, you know, tidal volume, six cc's per kilo.	6.949166666666667
+To try to decrease barotrauma.	7.023833333333333
 Um, she ramped up on those settings.	7.069
 We we paralyzed her.	7.107333333333333
 We've prone her.	7.14
-She's on iNO, inhaled nitric oxide is a pulmonary basal dilator, um, to try to improve her oxygenation.	7.1545
+She's on iNO, inhaled nitric oxide is a pulmonary vasodilator, um, to try to improve her oxygenation.	7.1545
 She ultimately developed renal failure and is currently on ah, continuous renal replacement therapy.	7.277333333333333
 Um, because she is on pressors now, due to some of the sedation, um, to maintain paralysis and proning, um and so wouldn't tolerate regular hemodialysis ultimately we changed her to the APRV or Bivent settings on hospital day 25.	7.384
 Um, and this is just to try to improve her oxygenation.	7.725666666666667
@@ -88,6 +88,6 @@ She never required ECMO, um, and we were able to do things over the course of ti
 So with that Ah, you know, this is a case of a, a patient with what she thought was diet controlled diabetes.	8.024
 Otherwise, no real medical problems, Young woman, Um who then comes in and does pretty well and then in about a week into her course here at the hospital has was probably a cytokine-storm with the fever, little hypertension, worsening respiratory status, and now is still quite ill in our our system.	8.153333333333332
 And so we've seen this several times.	8.480333333333332
-Um, and that's why I was hoping for a doctor a Bouchonville to give us Ah, talk about diabetes.	8.5305
+Um, and that's why I was hoping for doctor Bouchonville to give us Ah, talk about diabetes.	8.5305
 And And what is it about diabetes that is making this?	8.626333333333333
 Um, such a risk factor for patients with COVID.	8.680833333333334
