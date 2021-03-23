@@ -1,0 +1,59 @@
+Why do people outside of hyperglycemia are there any other reasons why people with diabetes might have a higher complication rate those with COVID-19?
+And so there's been a lot of interest lately in the, uh, potential role for the Renin Angiotensin system and ah, one thing we know, at least in mouse models of diabetes, so I mean, this could be the same case in humans where it's not completely known yet, but ACE expression.
+So angiotensin converting enzyme, uh, is higher in the lungs of, ah, of mouse models of diabetes.
+So it might be that that's the case in humans with diabetes as well, an activation of ace.
+So A's expression eyes associated with inflammation.
+It's associated with vasoconstriction.
+That's why ace inhibitors does tend to lower BP but also associate with thrombosis, lung injury, fibrosis and edema.
+All the things that kind of lead to to, uh what we see in COVID-19 is devastating complications of people with the infection.
+So there might be higher a ACE expression in in the lungs of people with diabetes and ace2 might also play an important role in the in the disease process.
+We know that ace2 is a target of ah cell entry, and I've got a schematic coming up, a figure that illustrates that.
+And, uh, but ace2 might also play a role in, um, kind of moderating ace expression in people who have COVID-19 infection.
+So ace2 is a counter regulatory, uh, enzyme that is kind of doing the opposite of everything.
+That ace I just showed you was doing so decreased inflammation rather than increased inflammation.
+And that's through suppression of TNF Alpha and some other mechanisms as well.
+Anti fibrotic effects vasodilator addition rather than basal constriction.
+And there's some evidence to suggest that ace2 might actually play a protective role in those with infection.
+But the current thinking right now is that outcome might have a lot to do with the relative balance of Ace and ace2 so again, a stew being more protective even though.
+It is a target for several entry, uh, playing a protective role in the setting of COVID-19 expression and again, playing more of, ah detrimental role for the reasons I just outlined and so, typically what happens whether a patient has diabetes or not.
+Hopefully you can see my little mouse pointer here, my track pad.
+So the virus binds with ace2 on the the epithelial cell of the, uh of the lung and is ah, this leads to cell entry, viral entry, replication and ace2 is actually down regulated so that your ace to ace2 ratio becomes less favorable aces is still there, but less ace2.
+So it kind of trips the balance and leads to an increased risk of lung injury.
+Now in patients with diabetes.
+If it's true that humans with diabetes just like the mouse model that they have increased ace expression in the lung, then this is kind of a double whammy picture.
+They have an even worse ace2 ratio, leading to increased lung injury and so forth.
+I want to highlight, though, that, um if we think about ace inhibitor is an angiotensin receptor blockers and what they do to ace expression in, um, this raises a very interesting question.
+So does this potential mechanism for increased COVID-19 severity and those with diabetes.
+Does this carry any therapeutic implications?
+And I'm going to ah, highlight this recent study from Lancet where ah, they looked at the use of aces and RAAS, ace inhibitors and angiotensin receptor blockers and the risk of ah, admission or death from COVID-19.
+This was a case population study, so they identified 1100 COVID positive cases requiring admission to the hospital, and then they matched COVID positive population controls that weren't hospitalized on a 1 to 10 ratio there.
+And they looked at the impact of ACE inhibitors and ARBs versus other antihypertensive medications on hospital admission.
+COVID-19 patients.
+And where they concluded, is that it appears that aces and RAAS because this has been a controversial question, right?
+If ace2 is ah is a target for, ah, for cell entry for coronavirus.
+Do we need to worry about ace inhibitors and ?
+If they might, some studies suggest increase ace2 expression.
+This is going to lead to more people having ah, uh, COVID-19 infections and so forth, but actually concluded that aces and RAAS appear to be safe.
+They did not increase the risk of hospitalization.
+Anyway, this study was not able to tell or answer the question of whether maybe milder infections are seeing with higher rates.
+But at least, um, it didn't appear that aces and RAAS were increasing the risk for hospitalization, and this is included.
+Fatal cases or those managed in the ICU.
+But what was really interesting also very interesting is that they looked at potential interactions here.
+So if you're not familiar, this is a forest plot.
+We've got the line of unity here.
+And then we have confidence intervals that are, as you can see here, typically crossing the line what you're looking for.
+And when we're looking at interactions here, we're looking to see whether there was any differential effect of using aces and RAAS when you kind of broke down this cohort into different subgroups based on sex or they female or male, based on age, hypertension and so forth.
+And then, you see, was there any difference in these confidence intervals between groups?
+And if so, you would see a P value of less than 0.5 and actually the ones the one area where they did see a significant difference with the P value of 0.004 was the absence or presence of diabetes and very interesting here.
+If you look at the confidence interval for people with diabetes versus those without, it actually falls to the left.
+Completely off the line of unity, there was actually a protective effect in patients with diabetes who were on aces and RAAS they were about, and we can look at the odds ratio.
+Here it's about 0.5, so they were about 50% as likely to be hospitalized or have a fatality or be managed in the ICU.
+Uh, with COVID-19 compared to those without diabetes who were on ACEs or RAAS so very interesting that it just speaks to the potential relevance of the renin angiotensin system in patients with diabetes specifically because again, there didn't appear to be any impact in patients.
+Uh, right in patients is a whole, so there might be something to that, um 1 last slide.
+I wanted to just throw in for fun, cause this was It's actually not even published yet it, but it's in circulation.
+It hasn't been peer reviewed yet, but also might shed some light on again, the mechanisms for worse outcomes in patients with diabetes who who have COVID-19 infection and, ah, some metformin.
+This was an observational study of metformin and risk of mortality in people that were that were hospitalized with COVID-19, and these were people with obesity and with with diabetes.
+And we know that metformin reduces TNF Alpha, which, of course, plays a big role in inflammation so it could could play a role in cytokine storm and so forth, and we know that metformin suppresses TNF alpha, and it appears to be more, uh, a more prominent effect of metformin in women rather than men.
+So this was a, ah, a retrospective analysis of claims data from over 6000 hospitalized COVID-19 patients.
+The average age was 75 and they found that those on metformin who were women that mortality was actually decreased by over 20%.
+So, uh, an interesting finding and definitely needs to be, uh, confirmed another with other studies.
