@@ -1,23 +1,23 @@
-2	Next slide on the initial evaluation at the outside ah emergency department.	3.4723333333333333
-2	Her room air saturation was 86%.	3.667
-2	She was tachycardic at 1 10 had a normal BP.	3.709333333333333
-2	22 was her respiratory rate.	3.7765
-2	Her BMI was 34.	3.8253333333333335
-2	In general, she appears very comfortable.	3.855166666666667
-2	She's tachycrdic.	3.891333333333333
-2	She didn't have a murmur.	3.907
-2	Her chest was clear.	3.9231666666666665
-2	Her abdomen was nontender.	3.941666666666667
-2	She felt relatively well.	3.9765
-2	Just the symptoms had been ramping up over the week.	4.022333333333333
-2	So she decided to seek attention.	4.067833333333334
-2	And she had no lesions on her, uh, skin exam.	4.096333333333333
-2	Next slide.	4.160666666666667
-2	The initial labs at the outside institution, of course.	4.2
-2	Or COVID swab was positive.	4.2476666666666665
-2	Her sodium was 1 26 chloride of 90 potassium of 3.0, and a bicarb of 15.	4.282333333333333
-2	Her glucose was 400.	4.378333333333333
-2	She hadn't anion gap of 21.	4.423333333333333
-2	She had normal renal function.	4.470666666666667
-2	Her troponin was negative and lactate was a little elevated at 3.4.	4.497166666666667
-2	Her white count was normal and her chest actually had bilateral patch opacities next slide.	4.544333333333333
+Next slide on the initial evaluation at the outside ah emergency department.
+Her room air saturation was 86%.
+She was tachycardic at 1 10 had a normal BP.
+22 was her respiratory rate.
+Her BMI was 34.
+In general, she appears very comfortable.
+She's tachycrdic.
+She didn't have a murmur.
+Her chest was clear.
+Her abdomen was nontender.
+She felt relatively well.
+Just the symptoms had been ramping up over the week.
+So she decided to seek attention.
+And she had no lesions on her, uh, skin exam.
+Next slide.
+The initial labs at the outside institution, of course.
+Or COVID swab was positive.
+Her sodium was 1 26 chloride of 90 potassium of 3.0, and a bicarb of 15.
+Her glucose was 400.
+She hadn't anion gap of 21.
+She had normal renal function.
+Her troponin was negative and lactate was a little elevated at 3.4.
+Her white count was normal and her chest actually had bilateral patch opacities next slide.
