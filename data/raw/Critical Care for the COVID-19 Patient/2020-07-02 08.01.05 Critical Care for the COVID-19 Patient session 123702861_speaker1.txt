@@ -31,7 +31,7 @@ And, of course, her family history is positive for diabetes and her father and h
 Next slide on the initial evaluation at the outside ah emergency department.	3.4723333333333333
 Her room air saturation was 86%.	3.6670000000000003
 She was tachycardic at 1 10 had a normal BP.	3.7093333333333334
-22 was her respiratory rate.	3.7765
+22 with her respiratory rate.	3.7765
 Her BMI was 34.	3.8253333333333335
 In general, she appears very comfortable.	3.855166666666667
 She's tachycrdic.	3.8913333333333333
@@ -47,7 +47,7 @@ The initial labs at the outside institution, of course.	4.2
 Or COVID swab was positive.	4.2476666666666665
 Her sodium was 1 26 chloride of 90 potassium of 3.0, and a bicarb of 15.	4.282333333333333
 Her glucose was 400.	4.378333333333333
-She hadn't anion gap of 21.	4.423333333333333
+She had an anion gap of 21.	4.423333333333333
 She had normal renal function.	4.470666666666667
 Her troponin was negative and lactate was a little elevated at 3.4.	4.497166666666667
 Her white count was normal and her chest actually had bilateral patch opacities next slide.	4.544333333333333
