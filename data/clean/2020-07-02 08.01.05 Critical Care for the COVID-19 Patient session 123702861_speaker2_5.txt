@@ -1,7 +1,34 @@
-But, um, just to kind of summarize everything I've shared with you again, we don't have evidence yet to suggest that people with diabetes are at a higher risk of getting COVID-19.
-But for sure, diabetes is associated with higher complications of COVID-19 infection, and this includes death.
-And we talked about the relative increase in risk, whether your patient has type one versus type two diabetes and that it appears to be very age dependent in terms of the mechanism for increased risk in COVID-19 infected patients with diabetes, it's likely multi factorial.
-We talked about a potential role for hyperglycemia, and we talked about a potential role for patterns of ace expression, leading to increased likelihood of inflammation thrombosis edema.
-And among injury.
-So, um, I think, uh, and here's some references.
-And, uh, I think I'm happy or I know I'm happy to take any question.
+So does this potential mechanism for increased COVID-19 severity and those with diabetes.
+Does this carry any therapeutic implications?
+And I'm going to ah, highlight this recent study from Lancet where ah, they looked at the use of aces and RAAS, ace inhibitors and angiotensin receptor blockers and the risk of ah, admission or death from COVID-19.
+This was a case population study, so they identified 1100 COVID positive cases requiring admission to the hospital, and then they matched COVID positive population controls that weren't hospitalized on a 1 to 10 ratio there.
+And they looked at the impact of ACE inhibitors and ARBs versus other antihypertensive medications on hospital admission.
+COVID-19 patients.
+And where they concluded, is that it appears that aces and RAAS because this has been a controversial question, right?
+If ace2 is ah is a target for, ah, for cell entry for coronavirus.
+Do we need to worry about ace inhibitors and ?
+If they might, some studies suggest increase ace2 expression.
+This is going to lead to more people having ah, uh, COVID-19 infections and so forth, but actually concluded that aces and RAAS appear to be safe.
+They did not increase the risk of hospitalization.
+Anyway, this study was not able to tell or answer the question of whether maybe milder infections are seeing with higher rates.
+But at least, um, it didn't appear that aces and RAAS were increasing the risk for hospitalization, and this is included.
+Fatal cases or those managed in the ICU.
+But what was really interesting also very interesting is that they looked at potential interactions here.
+So if you're not familiar, this is a forest plot.
+We've got the line of unity here.
+And then we have confidence intervals that are, as you can see here, typically crossing the line what you're looking for.
+And when we're looking at interactions here, we're looking to see whether there was any differential effect of using aces and RAAS when you kind of broke down this cohort into different subgroups based on sex or they female or male, based on age, hypertension and so forth.
+And then, you see, was there any difference in these confidence intervals between groups?
+And if so, you would see a P value of less than 0.5 and actually the ones the one area where they did see a significant difference with the P value of 0.004 was the absence or presence of diabetes and very interesting here.
+If you look at the confidence interval for people with diabetes versus those without, it actually falls to the left.
+Completely off the line of unity, there was actually a protective effect in patients with diabetes who were on aces and RAAS they were about, and we can look at the odds ratio.
+Here it's about 0.5, so they were about 50% as likely to be hospitalized or have a fatality or be managed in the ICU.
+Uh, with COVID-19 compared to those without diabetes who were on ACEs or RAAS so very interesting that it just speaks to the potential relevance of the renin angiotensin system in patients with diabetes specifically because again, there didn't appear to be any impact in patients.
+Uh, right in patients is a whole, so there might be something to that, um 1 last slide.
+I wanted to just throw in for fun, cause this was It's actually not even published yet it, but it's in circulation.
+It hasn't been peer reviewed yet, but also might shed some light on again, the mechanisms for worse outcomes in patients with diabetes who who have COVID-19 infection and, ah, some metformin.
+This was an observational study of metformin and risk of mortality in people that were that were hospitalized with COVID-19, and these were people with obesity and with with diabetes.
+And we know that metformin reduces TNF Alpha, which, of course, plays a big role in inflammation so it could could play a role in cytokine storm and so forth, and we know that metformin suppresses TNF alpha, and it appears to be more, uh, a more prominent effect of metformin in women rather than men.
+So this was a, ah, a retrospective analysis of claims data from over 6000 hospitalized COVID-19 patients.
+The average age was 75 and they found that those on metformin who were women that mortality was actually decreased by over 20%.
+So, uh, an interesting finding and definitely needs to be, uh, confirmed another with other studies.
