@@ -4,10 +4,9 @@ Question1
 
 Q: do you think her risk was more increased due to obesity rather than diabetes?
 
-A: 
-That's a great question.
+A: That's a great question.
 Um, and I'll let Matt add here too, because I was wondering because I've seen a few that have just had, um, obesity.
-We have, Ah, a 33 year old, uh, obese gentlemen, 56 BMI.
+We have, Ah, a 33 year old, uh, obese gentleman, 56 BMI.
 On ECMO
 Who didn't have diabetes, And we haven't had a 23 year old admitted that didn't have diabetes.
 He was just a little portly.
@@ -26,26 +25,25 @@ But I bring that up because lots of lean people with diabetes are having that po
 In fact, I showed you some data from the UK, where the Type one diabetes outcomes were even worse than those with Type two diabetes.
 So, um, likely they're both increased risk factors.
 Diabetes as independent of obesity as well.
-I'm not sure about ACE expression and the lungs in those with obesity, but no diabetes.
+I'm not sure about ACE expression in the lungs in those with obesity, but no diabetes.
 That would be interesting to see, um, to see if there is a shared mechanism.
-Potentially, Yeah, I think in an obese patients, all of the adipose sites, they're considered inflammatory.
-You know, you have extra adipo kinds, and I believe you have more.
-You know, you have, ah, a tricep tres in the adipose sites, I believe.
+Potentially, Yeah, I think in an obese patients, all of the adipocytes, they're considered inflammatory.
+You know, you have extra adipocynes, and I believe you have more.
+You know, you have, ah, ACE receptors in the adipocytes, I believe.
 And so if you've got more of those, you have more ace receptors.
 So maybe there's ah pathway there.
 And I think there's also a concern on the obese patient that comes into the ICU, you know, trying to oxygenate them if they have a lot of abdominal obesity, it can also cause a little compression or inability to expand.
 Um, the, you know, just regular breathing.
 And so we may have issues with them trying to trying to oxygenate.
-Um, it may be a little bit more difficult than it's extra work for them if they have, Ah, obese chest, um, or abdominal contents, that kind of rise up.
-But I think there's Ah, yeah, the the obese patient has, uh, is considered have increased inflammation, Which may be why they're also, you know, MIs OCA, uh, they're at risk for, uh, PEE.
+Um, it may be a little bit more difficult and it's extra work for them if they have, Ah, obese chest, um, or abdominal contents, that kind of rise up.
+But I think there's Ah, yeah, the the obese patient has, uh, is considered have increased inflammation, Which may be why they're also, you know, MIs OSA, uh, they're at risk for, uh, PE.
 You know, there are a variety of things that just obesity in and of itself can do.
 And I think there's more ace expression potentially.
 So separating out.
 The diabetes and the obese question are are difficult, but we do see it.
 Uh, here was just obesity is as the risk factor for poor outcome.
 Thank you, Michelle.
-Matt, can you talk about a little bit more?
-About ace inhibitors.
+
 
 ~~~~~~~~~~~~~
 Question2
@@ -53,42 +51,20 @@ Question2
 
 Q: Do ACE inhibitors lower ACE1 or ACE2, or both?  Thank you.
 
-A: 
+A: Matt, can you talk about a little bit more?
+About ace inhibitors.
 And the question was, Do ACE inhibitors lower ACE1 or ACE2, or both?
 All right.
 Thank you.
 Yeah, it's, um so they are are going to counter ace expression.
 And so that, at least in patients with diabetes, might be what is improving or was shown to improve in this one, series I shared with you, uh, outcomes in those with diabetes who also had COVID-19.
 The impact on ace2, um is not quite is clear.
-There's some mixed mixed findings on that, but most of the the evidence I've seen suggests that they're actually increasing ace two expression, Which is why early on, there was some concern about what our ace inhibitors actually increasing risk COVID-19 infection.
+There's some mixed mixed findings on that, but most of the the evidence I've seen suggests that they're actually increasing ace2 expression, Which is why early on, there was some concern about wow our ace inhibitor is actually increasing risk COVID-19 infection.
 Well, in theory, if you're increasing ace2 expression, there are gonna be more targets for COVID-19.
-But actually that that increased ace two expression, um, in the setting of blocking ace expression, um, if anything in patients with diabetes, it's actually improving outcomes.
+But actually that that increased ace2 expression, um, in the setting of blocking ace expression, um, if anything in patients with diabetes, it's actually improving outcomes.
 But again, we can't.
 These studies don't prove causality, but at least in those foot diabetes, that was the association as a whole.
-There was no impact on disease severity, but again, it was really the subset of those with diabetes where it appeared that faces and arms might actually be protective.
-Thank you Matt Carlos Nolasco.
-I'm up for you and I meet yourself and actually act.
-Ask your question your next question.
-Just just It's a very interesting and relevant question.
-Sure, yes.
-So I was so taking a health and economic disparities out of the discussion just because, you know that plays a role in in a there's a clinical outcomes.
-I wanted to ask if there's any data suggested that Hispanics or being of Hispanic race made, um, it may be associated with a higher risk of hospitalization where it comes due to the increased risk for metabolic syndrome or the risk of diabetes that we know that Hispanics have.
-Thank you.
-Carlos.
-Can you just also introduce yourself where you're from?
-Yes.
-So Hello.
-Sorry, I'm doses ambitious here on, uh, I'm from El Salvador I'm a practice internist here and, um uh, in Springfield, Illinois, I'm doing private practice right now.
-But, you know, for five years, I was, uh I could have an internist at Southern Illinois University, and it used to be part of Project echo pipe professional with the university, Uh, from 17 to 2019.
-And you know, right now I'm trying to figure out if, you know we can, uh we can hope in a project echo on COVID-19 for Salvadoran physicians too.
-Excellent.
-Thank you so much.
-My pleasure.
-All right.
-Thank you.
-That's an excellent question.
-How?
-Carlos?
+There was no impact on disease severity, but again, it was really the subset of those with diabetes where it appeared that faces and ARBS might actually be protective.
 
 ~~~~~~~~~~~~~
 Question3
@@ -96,14 +72,13 @@ Question3
 
 Q: Taking health and economy disparities out of the discussion, do you have any data suggesting that Hispanics may be at a higher risk of hospitalization or worse outcomes due to their known increased risk for metabolic syndrome and risk for diabetes?
 
-A: 
-A nice, nice to meet you stated in the United States, there's certainly evidence suggesting ethnic disparities.
+A: A nice, nice to meet you stated in the United States, there's certainly evidence suggesting ethnic disparities.
 Um, in terms of complications and death rates related to COVID-19.
 Ah, most familiar with that data with respect to black Americans.
 Um, I not positive, but, I mean, I could make a guess that yes, maybe we're seeing the same thing in Hispanic Americans.
 Um, but I haven't review that closely, but any group where there is, ah, higher prevalence of obesity in diabetes again, we don't have strong evidence that they're higher risk of getting COVID-19.
 But certainly the risk of complications appears to be higher.
-Yeah, I would say the majority of our patients admitted to the UNM hospital or even our center ball regional.
+Yeah, I would say the majority of our patients admitted to the UNM hospital or even our Sandoval regional.
 Uh, medical center had been, um, you know, Native American Ah, or Alaska native with, Ah, a lot of have diabetes, obesity and all those things.
 So, you know, that's the majority of the patients that are admitted to our institution.
 But that also is, You know, we're right neighboring to the Navajo Nation, and we have several Pueblo tribes here in New Mexico.
@@ -112,40 +87,6 @@ And so we have a lot of Hispanic patients as well.
 And that seemed to be the predominant ones that are admitted to the hospital, or at least in the ICU from from my standpoint.
 So it would make sense.
 Thank you, Michelle.
-So that is the the last question in the chat.
-We would love to hear how anybody has any questions related to this, or I think anything else.
-Michelle, You You'd be happy to hear them.
-So, um, and the other bus, Michelle Ormat, Um, I just kind of getting back to the case.
-I don't know, uh, Michelle, whether it's been protocol here for critically ill patients to receive dexamethasone, given some recent data, But just another thing that another consideration in patients with diabetes because of the balance between the dexamethasone and the higher blood sugars.
-So often, if If that's the case, it's recommended to treat patients with an insulin drip.
-But I wonder how this patient is doing from a glassy make standpoint now.
-Um, well, so this patient was given dexamethasone later.
-Um, especially when the the recovery trial was published, suggesting less, Um Ah, mortality.
-If you were on a ventilator getting dexamethasone, so then yes, was put on an insulin drip because you really have to kind of watch how how Ah, there by seem in control.
-Um is impacted when you're putting people on steroids.
-And I think because of that trial, whether that the trial has the most sound data, Um, and the randomization skin was a little off, but, um, you know, people are using it.
-And so that's another thing that you need to really be kind of on pop up toe controller.
-My stomach issues.
-We've had two or three other patients, um, the inner ICU and Matt, maybe you can help me with us to it that have had extreme hyperglycemia just randomly and, you know, that's that is reported that with COVID, you may have issues with hyperglycemia.
-Um, and all of a sudden, you know, for no reason they didn't get steroids.
-All of a sudden, they're on an insulin.
-Drip it eight or 10 units an hour, and then in a 24 hour period, it just seemed to resolve.
-And we didn't have a reason for that, per se.
-And I don't know what mechanism there.
-Maybe for that.
-And maybe it was just someone was giving them something we didn't know.
-But I doubt that in the ICU is really interesting.
-Yeah, and these were people with pre existing diabetes, but some labile blood, sugars and the right just everything was fine.
-And then one day they just spiked up.
-And that's maybe part of the storm, uh, having more hyperglycemia.
-You know, just all the metabolic disturbance is, um, so it was surprising, but ah, you know, that a fever and it was more difficult to control their blood sugar and then, you know, more aggressive insulin drip, and then we're able to bring things down on.
-Now they're back.
-Tow normal state just was interesting.
-Yeah, that would be That would add a major challenge to treating these patients, at least anecdotally, you know, Stanford University runs the nation wide diabetes and the time of COVID echo on Wednesday mornings, and I've heard them describe patients would just very labile from our our glycemia control.
-That's presumably related to just what you mentioned.
-The show changes in cytokine-storm levels and inflammation such that it could be really risky to treat those patients with subcutaneous insulin because their insulin needs can change from our two hours.
-So again, just speaking to the, uh, importance of considering IV insulin in the ICU setting, Yeah, thank you, patients, Thank you very much.
-There's a couple other questions that came up in the chat Captain.
 
 ~~~~~~~~~~~~~
 Question4
@@ -153,26 +94,23 @@ Question4
 
 Q: Do these patients need to see endocrinology and cardiology outpatient one they are discharged?
 
-A: 
-Tourists ask to These patients need to see endocrinology and cardiology outpatient once they were discharged.
-Uh huh.
-After Captain, I don't know.
-If you want to meet yourself.
-Maybe Are you asking about patients in general or just patients?
-You already have diagnosis diabetes.
-Um, now I have received my first patient that survived.
+A: Catherine, I don't know.
+If you want to unmute yourself.
+Maybe Are you asking about patients in general or just patients
+You already have diagnosis diabetes?
+Um, no I have received my first patient that survived.
 I'm ah, a medical director at Saint Michaels Clinic, which is a non profit clinic.
-That's it's within the Navajo Nation that's not associated with age s.
+That sits within the Navajo Nation that's not associated with IHS.
 And so I probably what I want to do is present him in one of your Echo's because it Really?
 He did survive.
 He lost 50 lbs.
-He was ventilated, his hemoglobin a one c was quite high, and he was obese, and he's lost the weight.
-But now he, you know, was just charged a few weeks ago, and I've been following him, and he's starting to put his weight back on.
+He was ventilated, his hemoglobin a1c was quite high, and he was obese, and he's lost the weight.
+But now he, you know, was discharged a few weeks ago, and I've been following him, and he's starting to put his weight back on.
 And then, you know, I'm trying to get him to cardiology, But it really there's no evidence now that how those of us out in primary care now that they've survived, how do we want?
 Keep them healthy?
 And what things do we need to do for them?
-So one of for me is that do I need to just Consul in a chronology, cause he was able to go just to just stay on the oral hypoglycemic so, And he got off his insulin.
-So if I can keep him with his hemoglobin a one c below seven.
+So one of for me is that do I need to just consult endocrinology, cause he was able to go just to just staying on the oral hypoglycemic so, And he got off his insulin.
+So if I can keep him with his hemoglobin a1c below seven.
 Um, it will be nice, but kind of what are the things I need to be looking for?
 So, um, and it's impressive to see him.
 He's he's, like, so full of joy, you know?
@@ -181,10 +119,10 @@ So they were really able to get him to walk and do all those things, and it's a 
 But I want to make sure we're following him correctly and for me, because I just doesn't have any outpatient facilities open.
 I'm going to start seeing some of those people as they transition out.
 But there's really no follow up, like, What do I need to be doing to make sure you know?
-So I'll be glad to present him, Um, which started started.
+So I'll be glad to present him, Um, which doctor Thornton.
 I'll talk to you about that this later this week, but just kind of your thoughts.
 I kind of want to hear what everybody thinks about that.
-They have a question, Uh, from an endocrine standpoint.
+Great question Catherine from an endocrine standpoint.
 Um, yeah, I think it's the things to watch for with somebody who's experienced 50 lbs of weight loss.
 I think we're gonna be hypoglycemia.
 I'm sure his if he was on insulin before his requirements are probably much lower now.
@@ -193,35 +131,35 @@ We're gonna be seeing this more more.
 Um, in New Mexico, at the university, even New Mexico.
 I mean, we're always happy to help with the diabetes control, but travel right now is is tricky with COVID-19.
 And I think that Ah, what you brought up presenting this patient on the network is a great idea.
-I'm gonna put our digital library in on the spot here and request that he put in the chat box if he hasn't already a link to our endo echo on Wednesdays and then also the diabetes and the time of COVID Echo, which is also free to join the national Stanford Echo, which is also on Wednesdays.
+I'm gonna put our digital librarian on the spot here and request that he put in the chat box if he hasn't already a link to our endo echo on Wednesdays and then also the diabetes and the time of COVID Echo, which is also free to join the national Stanford Echo, which is also on Wednesdays.
 So you can you can click on that and register.
 Um, does that answer your question, Catherine?
 No, no, thank you.
-Yeah, because I think it's something we, you know, really have Thio.
-I'm glad that we're going to start looking at it together because it's amazing to do really the hard work everyone has done in and how fast all of you, in critical care of really pinpoint what's really going on.
+Yeah, because I think it's something we, you know, really have to.
+I'm glad that we're going to start looking at it together because it's amazing to really the hard work everyone has done in and how fast all of you, in critical care have really pinpoint what's really going on.
 And but now they're surviving And what it?
-So now how to make sure we we continue the keep him in good health.
+So now how to make sure we we continue the keep them in good health.
 So I appreciate that.
 Thank you.
 Sure.
 Oh, go ahead.
-Michigan.
+Michelle.
 Just say that's been a a topic that's come up is ah, request potentially.
 You know what?
 What do we do with the survivors or who survives?
 And what do we look for?
-And are Ah, Alicia, Parana does our COVID fallout clinic.
-And I see some of my study patients in that clinic a za follow up once they've gotten out of their act to study.
+And are Ah, Alicia Parada does our COVID follow-up clinic.
+And I see some of my study patients in that clinic a as a follow up once they've gotten out of their act 2 study.
 Um and you know what?
 What things do we need to look for?
-So that that's a good topic to kind of put together in a in a nutshell for for folks now that patients are surviving him back into their community.
+So that that's a good topic to kind of put together in a in a nutshell for for folks now that patients are surviving and back into their community.
 Um what What?
 Things are important to follow up.
-So that's a good topic that we can address Cinna in a few weeks, you know?
+So that's a good topic that we can address in a few weeks, you know?
 Well, and thank you.
-Because not all of them are at you.
+Because not all of them are at UNM.
 And now, so, as you know, they've been flown all over, and then they just get sent back.
-And so, um and, um has done a good job about making sure there's follow up.
+And so, um and, UNM has done a good job about making sure there's follow up.
 So for those patients, it's nice to hear that that you're here and available for that.
 Thank you.
 Great.
@@ -230,13 +168,12 @@ Katherine.
 Know this is something else.
 Yeah.
 Yeah.
-And I know this isn't your question, Catherine, but just a nice general tips for people in the network right now is that, uh, we're seeing increased use in ah, recent years of SGLT two inhibitors because of emerging evidence that they're cardio and renal protective.
+And I know this isn't your question, Catherine, but just a nice general ti for people in the network right now is that, uh, we're seeing increased use in ah, recent years of SGLT2 inhibitors because of emerging evidence that they're cardio and renal protective.
 And so we're thinking about that class of medications in older patients with heart disease especially.
 And this is a group of patients at increased risk for COVID.
 That class of medications is associated with an increased risk of DKA.
-So most people are recommending holding in your ALC patients if with diabetes, if if they do, um, contract COVID-19 considering stopping or holding the SGLT two inhibitor until they've recovered to help lessen the risk of DKA.
+So most people are recommending holding in your outpatients if with diabetes, if if they do, um, contract COVID-19 considering stopping or holding the SGLT2 inhibitor until they've recovered to help lessen the risk of DKA.
 Thank you, Matt.
-There was another question.
 
 ~~~~~~~~~~~~~
 Question5
@@ -244,19 +181,18 @@ Question5
 
 Q: Will the association between ACE2i and the outcome of COVID-19 supports giving non-diabetes patients with COVID-19 ACE2i?  
 
-A: 
-Um, about well, the association between ace's to and the outcomes of COVID-19 support getting non diabetic patients with COVID-19 ace inhibitors.
+A: Um, about well, the association between ace's to and the outcomes of COVID-19 support getting non diabetic patients with COVID-19 ace inhibitors.
 Great.
 Thank you.
-And, um, right now, the recommendation because there's evidence in people, including those with diabetes, that aces and arms don't increase the risk of complications.
+And, um, right now, the recommendation because there's evidence in people, including those with diabetes, that aces and ARBS don't increase the risk of complications.
 They're didn't really appear to be, ah, protective effect overall either.
-So the recommendation is to just continue aces and arms for right now.
-In the absence of a Contra indication, I've not seen any suggestion for putting patients on an ace or an ARB in the absence of hypertension or diabetes and again the nose with diabetes that appear that they had a protective effect in terms of hospitalization and mortality.
-But there is no recommendation right now to put people on diabetes on an ace or an ARB and the absence of albumin, urea or hypertension.
-And there is, Ah, trial, that is, um, you know, because a lot of things we don't know the answer to and so really the the weight Oh, find an answer is, is with a clinical trial and and ah, kind of a rigorous way of doing things.
-And so we are potentially going to start the Remicade trial here, which is giving on ACE inhibitor for treatment of COVID and in probably the nonhospitalized patient to see just that worsen Or does that help prevent, um Ah, the, uh, admission rate.
-And so, um, that's one of things that we're kind of looking at now is s.
+So the recommendation is to just continue aces and ARBS for right now.
+In the absence of a contraindication, I've not seen any suggestion for putting patients on an ace or an ARB in the absence of hypertension or diabetes and again those with diabetes that appear that they had a protective effect in terms of hospitalization and mortality.
+But there is no recommendation right now to put people on diabetes on an ace or an ARB in the absence of albuminuria or hypertension.
+And there is, Ah, trial, that is, um, you know, because a lot of things we don't know the answer to and so really the the way to find an answer is, is with a clinical trial and and ah, kind of a rigorous way of doing things.
+And so we are potentially going to start the ramek trial here, which is giving on ACE inhibitor for treatment of COVID and in probably the nonhospitalized patient to see does that worsen Or does that help prevent, um Ah, the, uh, admission rate.
+And so, um, that's one of things that we're kind of looking at now is.
 So it's giving an ace inhibitor for to treat COVID.
-Um and it's the Ramot trial, and it's on Ah, clinical trials that, uh, go but way haven't signed up yet.
+Um and it's the remick trial, and it's on Ah, clinicaltrials.gov, uh, go but we haven't signed up yet.
 But that's one of things we're working through that process to get that trial going here.
 

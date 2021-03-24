@@ -1,29 +1,29 @@
 So does this potential mechanism for increased COVID-19 severity and those with diabetes.
 Does this carry any therapeutic implications?
-And I'm going to ah, highlight this recent study from Lancet where ah, they looked at the use of aces and RAAS, ace inhibitors and angiotensin receptor blockers and the risk of ah, admission or death from COVID-19.
+And I'm going to ah, highlight this recent study from Lancet where ah, they looked at the use of aces and ARBS, ace inhibitors and angiotensin receptor blockers and the risk of ah, admission or death from COVID-19.
 This was a case population study, so they identified 1100 COVID positive cases requiring admission to the hospital, and then they matched COVID positive population controls that weren't hospitalized on a 1 to 10 ratio there.
 And they looked at the impact of ACE inhibitors and ARBs versus other antihypertensive medications on hospital admission.
 COVID-19 patients.
-And where they concluded, is that it appears that aces and RAAS because this has been a controversial question, right?
+And where they concluded, is that it appears that aces and ARBS because this has been a controversial question, right?
 If ace2 is ah is a target for, ah, for cell entry for coronavirus.
 Do we need to worry about ace inhibitors and ?
 If they might, some studies suggest increase ace2 expression.
-This is going to lead to more people having ah, uh, COVID-19 infections and so forth, but actually concluded that aces and RAAS appear to be safe.
+This is going to lead to more people having ah, uh, COVID-19 infections and so forth, but actually concluded that aces and ARBS appear to be safe.
 They did not increase the risk of hospitalization.
 Anyway, this study was not able to tell or answer the question of whether maybe milder infections are seeing with higher rates.
-But at least, um, it didn't appear that aces and RAAS were increasing the risk for hospitalization, and this is included.
+But at least, um, it didn't appear that aces and ARBS were increasing the risk for hospitalization, and this is included.
 Fatal cases or those managed in the ICU.
 But what was really interesting also very interesting is that they looked at potential interactions here.
 So if you're not familiar, this is a forest plot.
 We've got the line of unity here.
 And then we have confidence intervals that are, as you can see here, typically crossing the line what you're looking for.
-And when we're looking at interactions here, we're looking to see whether there was any differential effect of using aces and RAAS when you kind of broke down this cohort into different subgroups based on sex or they female or male, based on age, hypertension and so forth.
+And when we're looking at interactions here, we're looking to see whether there was any differential effect of using aces and ARBS when you kind of broke down this cohort into different subgroups based on sex or they female or male, based on age, hypertension and so forth.
 And then, you see, was there any difference in these confidence intervals between groups?
 And if so, you would see a P value of less than 0.5 and actually the ones the one area where they did see a significant difference with the P value of 0.004 was the absence or presence of diabetes and very interesting here.
 If you look at the confidence interval for people with diabetes versus those without, it actually falls to the left.
-Completely off the line of unity, there was actually a protective effect in patients with diabetes who were on aces and RAAS they were about, and we can look at the odds ratio.
+Completely off the line of unity, there was actually a protective effect in patients with diabetes who were on aces and ARBS they were about, and we can look at the odds ratio.
 Here it's about 0.5, so they were about 50% as likely to be hospitalized or have a fatality or be managed in the ICU.
-Uh, with COVID-19 compared to those without diabetes who were on ACEs or RAAS so very interesting that it just speaks to the potential relevance of the renin angiotensin system in patients with diabetes specifically because again, there didn't appear to be any impact in patients.
+Uh, with COVID-19 compared to those without diabetes who were on ACEs or ARBS so very interesting that it just speaks to the potential relevance of the renin angiotensin system in patients with diabetes specifically because again, there didn't appear to be any impact in patients.
 Uh, right in patients is a whole, so there might be something to that, um 1 last slide.
 I wanted to just throw in for fun, cause this was It's actually not even published yet it, but it's in circulation.
 It hasn't been peer reviewed yet, but also might shed some light on again, the mechanisms for worse outcomes in patients with diabetes who who have COVID-19 infection and, ah, some metformin.
